@@ -1,0 +1,2011 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="242.16246"
+   height="250.60012"
+   viewBox="0,0,242.16246,250.60012"
+   id="svg43"
+   sodipodi:docname="slam1.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview43"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.0071819"
+     inkscape:cx="121.06526"
+     inkscape:cy="125.30006"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g43" />
+  <defs
+     id="defs4">
+    <inkscape:path-effect
+       effect="roughen"
+       id="path-effect125"
+       is_visible="true"
+       lpeversion="1.2"
+       global_randomize="1;1"
+       displace_x="1.59351;1"
+       displace_y="1.63129;1"
+       method="size"
+       max_segment_size="4.78052"
+       segments="2"
+       handles="along"
+       shift_nodes="true"
+       fixed_displacement="false"
+       spray_tool_friendly="false" />
+    <inkscape:path-effect
+       effect="rough_hatches"
+       id="path-effect124"
+       is_visible="true"
+       lpeversion="1.2"
+       direction="342.84285,177.18435 , 59.756505,0"
+       dist_rdm="75;1"
+       growth="0"
+       do_bend="true"
+       bender="342.84285,182.18435 , 5,0"
+       bottom_edge_variation="24.469355;1"
+       top_edge_variation="24.469355;1"
+       bottom_tgt_variation="0;1"
+       top_tgt_variation="0;1"
+       scale_bf="1"
+       scale_bb="1"
+       scale_tf="1"
+       scale_tb="1"
+       top_smth_variation="0;1"
+       bottom_smth_variation="0;1"
+       fat_output="true"
+       stroke_width_top="1"
+       stroke_width_bottom="1"
+       front_thickness="1"
+       back_thickness="0.25" />
+    <linearGradient
+       x1="289.09455"
+       y1="213.12079"
+       x2="207.48121"
+       y2="180.1766"
+       gradientUnits="userSpaceOnUse"
+       id="color-1">
+      <stop
+         offset="0"
+         stop-color="#470020"
+         stop-opacity="0.87451"
+         id="stop1" />
+      <stop
+         offset="1"
+         stop-color="#000000"
+         stop-opacity="0.38824"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       x1="348.8282"
+       y1="215.87678"
+       x2="328.65592"
+       y2="299.88774"
+       gradientUnits="userSpaceOnUse"
+       id="color-2">
+      <stop
+         offset="0"
+         stop-color="#470020"
+         stop-opacity="0.87451"
+         id="stop3" />
+      <stop
+         offset="1"
+         stop-color="#000000"
+         stop-opacity="0.38824"
+         id="stop4" />
+    </linearGradient>
+    <filter
+       color-interpolation-filters="linearRGB"
+       filterUnits="objectBoundingBox"
+       primitiveUnits="userSpaceOnUse"
+       inkscape:label="Basic Two Lights Bump"
+       inkscape:menu="Bumps"
+       inkscape:menu-tooltip="Two types of lighting emboss effect"
+       id="filter45"
+       x="-0.085428433"
+       y="-0.030777298"
+       width="1.1752503"
+       height="1.0853755"
+       style="color-interpolation-filters:sRGB;">
+      <feMorphology
+         operator="erode"
+         radius="1 1"
+         x="0%"
+         y="0%"
+         width="100%"
+         height="100%"
+         in="composite6"
+         result="morphology5"
+         id="feMorphology43" />
+      <feMorphology
+         operator="erode"
+         radius="1 1"
+         x="0%"
+         y="0%"
+         width="100%"
+         height="100%"
+         in="SourceGraphic"
+         result="morphology4"
+         id="feMorphology44" />
+      <feComposite
+         in="morphology5"
+         in2="morphology4"
+         operator="in"
+         x="0%"
+         y="0%"
+         width="100%"
+         height="100%"
+         result="composite6"
+         id="feComposite44" />
+      <feGaussianBlur
+         stdDeviation="3 0"
+         x="0%"
+         y="0%"
+         width="100%"
+         height="100%"
+         in="composite6"
+         edgeMode="none"
+         result="blur7"
+         id="feGaussianBlur44" />
+      <feDiffuseLighting
+         surfaceScale="5"
+         diffuseConstant="0.75"
+         lighting-color="#ffffff"
+         x="0%"
+         y="0%"
+         width="100%"
+         height="100%"
+         in="blur7"
+         result="diffuseLighting4"
+         id="feDiffuseLighting44">
+        <feDistantLight
+           azimuth="255"
+           elevation="50"
+           id="feDistantLight44" />
+      </feDiffuseLighting>
+      <feBlend
+         mode="multiply"
+         x="0%"
+         y="0%"
+         width="100%"
+         height="100%"
+         in="diffuseLighting4"
+         in2="morphology5"
+         result="blend3"
+         id="feBlend44" />
+      <feGaussianBlur
+         stdDeviation="1 0"
+         x="0%"
+         y="0%"
+         width="100%"
+         height="100%"
+         in="blend3"
+         edgeMode="none"
+         result="blur8"
+         id="feGaussianBlur45" />
+      <feComposite
+         in="blur8"
+         in2="SourceAlpha"
+         operator="in"
+         x="0%"
+         y="0%"
+         width="100%"
+         height="100%"
+         result="composite7"
+         id="feComposite45" />
+      <feBlend
+         mode="overlay"
+         x="0%"
+         y="0%"
+         width="100%"
+         height="100%"
+         in="composite7"
+         in2="SourceGraphic"
+         result="fbSourceGraphic"
+         id="feBlend45" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix51" />
+      <feColorMatrix
+         id="feColorMatrix52"
+         result="result2"
+         type="luminanceToAlpha"
+         in="fbSourceGraphic" />
+      <feSpecularLighting
+         id="feSpecularLighting52"
+         specularConstant="0.5"
+         surfaceScale="-15"
+         specularExponent="10"
+         result="result10">
+        <feDistantLight
+           id="feDistantLight52"
+           elevation="20"
+           azimuth="225" />
+      </feSpecularLighting>
+      <feDiffuseLighting
+         id="feDiffuseLighting52"
+         diffuseConstant="0.5"
+         surfaceScale="15">
+        <feDistantLight
+           id="feDistantLight53"
+           azimuth="225"
+           elevation="20" />
+      </feDiffuseLighting>
+      <feComposite
+         id="feComposite53"
+         result="result11"
+         in2="result10"
+         operator="arithmetic"
+         k2="0.5"
+         k3="0.5" />
+      <feComposite
+         id="feComposite54"
+         in="result11"
+         result="result9"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="fbSourceGraphic" />
+      <feComposite
+         id="feComposite55"
+         in2="fbSourceGraphic"
+         operator="in"
+         in="result9" />
+    </filter>
+    <filter
+       inkscape:label="Basic Two Lights Bump"
+       inkscape:menu="Bumps"
+       inkscape:menu-tooltip="Two types of lighting emboss effect"
+       style="color-interpolation-filters:sRGB;"
+       id="filter48"
+       x="-0.084989615"
+       y="-0.10523239"
+       width="1.1700395"
+       height="1.2098249">
+      <feColorMatrix
+         result="result2"
+         type="luminanceToAlpha"
+         in="SourceGraphic"
+         id="feColorMatrix45" />
+      <feSpecularLighting
+         specularConstant="0.5"
+         surfaceScale="-15"
+         specularExponent="10"
+         result="result10"
+         id="feSpecularLighting45">
+        <feDistantLight
+           elevation="20"
+           azimuth="225"
+           id="feDistantLight45" />
+      </feSpecularLighting>
+      <feDiffuseLighting
+         diffuseConstant="0.5"
+         surfaceScale="15"
+         id="feDiffuseLighting46">
+        <feDistantLight
+           azimuth="225"
+           elevation="20"
+           id="feDistantLight46" />
+      </feDiffuseLighting>
+      <feComposite
+         result="result11"
+         in2="result10"
+         operator="arithmetic"
+         k2="0.5"
+         k3="0.5"
+         id="feComposite46" />
+      <feComposite
+         in="result11"
+         result="result9"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="SourceGraphic"
+         id="feComposite47" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         in="result9"
+         id="feComposite48" />
+    </filter>
+    <filter
+       inkscape:label="Basic Two Lights Bump"
+       inkscape:menu="Bumps"
+       inkscape:menu-tooltip="Two types of lighting emboss effect"
+       style="color-interpolation-filters:sRGB;"
+       id="filter51"
+       x="-0.10928628"
+       y="-0.081906063"
+       width="1.2163252"
+       height="1.1644342">
+      <feColorMatrix
+         result="result2"
+         type="luminanceToAlpha"
+         in="SourceGraphic"
+         id="feColorMatrix48" />
+      <feSpecularLighting
+         specularConstant="0.5"
+         surfaceScale="-15"
+         specularExponent="10"
+         result="result10"
+         id="feSpecularLighting48">
+        <feDistantLight
+           elevation="20"
+           azimuth="225"
+           id="feDistantLight48" />
+      </feSpecularLighting>
+      <feDiffuseLighting
+         diffuseConstant="0.5"
+         surfaceScale="15"
+         id="feDiffuseLighting49">
+        <feDistantLight
+           azimuth="225"
+           elevation="20"
+           id="feDistantLight49" />
+      </feDiffuseLighting>
+      <feComposite
+         result="result11"
+         in2="result10"
+         operator="arithmetic"
+         k2="0.5"
+         k3="0.5"
+         id="feComposite49" />
+      <feComposite
+         in="result11"
+         result="result9"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="SourceGraphic"
+         id="feComposite50" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         in="result9"
+         id="feComposite51" />
+    </filter>
+    <filter
+       inkscape:label="Basic Two Lights Bump"
+       inkscape:menu="Bumps"
+       inkscape:menu-tooltip="Two types of lighting emboss effect"
+       style="color-interpolation-filters:sRGB;"
+       id="filter58"
+       x="-0.12543569"
+       y="-0.13436139"
+       width="1.2833253"
+       height="1.2687458">
+      <feColorMatrix
+         result="result2"
+         type="luminanceToAlpha"
+         in="SourceGraphic"
+         id="feColorMatrix55" />
+      <feSpecularLighting
+         specularConstant="0.5"
+         surfaceScale="-15"
+         specularExponent="10"
+         result="result10"
+         id="feSpecularLighting55">
+        <feDistantLight
+           elevation="20"
+           azimuth="225"
+           id="feDistantLight55" />
+      </feSpecularLighting>
+      <feDiffuseLighting
+         diffuseConstant="0.5"
+         surfaceScale="15"
+         id="feDiffuseLighting56">
+        <feDistantLight
+           azimuth="225"
+           elevation="20"
+           id="feDistantLight56" />
+      </feDiffuseLighting>
+      <feComposite
+         result="result11"
+         in2="result10"
+         operator="arithmetic"
+         k2="0.5"
+         k3="0.5"
+         id="feComposite56" />
+      <feComposite
+         in="result11"
+         result="result9"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="SourceGraphic"
+         id="feComposite57" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         in="result9"
+         id="feComposite58" />
+    </filter>
+    <filter
+       inkscape:label="Basic Two Lights Bump"
+       inkscape:menu="Bumps"
+       inkscape:menu-tooltip="Two types of lighting emboss effect"
+       style="color-interpolation-filters:sRGB;"
+       id="filter61"
+       x="-0.080997697"
+       y="-0.22699894"
+       width="1.1619954"
+       height="1.4548601">
+      <feColorMatrix
+         result="result2"
+         type="luminanceToAlpha"
+         in="SourceGraphic"
+         id="feColorMatrix58" />
+      <feSpecularLighting
+         specularConstant="0.5"
+         surfaceScale="-15"
+         specularExponent="10"
+         result="result10"
+         id="feSpecularLighting58">
+        <feDistantLight
+           elevation="20"
+           azimuth="225"
+           id="feDistantLight58" />
+      </feSpecularLighting>
+      <feDiffuseLighting
+         diffuseConstant="0.5"
+         surfaceScale="15"
+         id="feDiffuseLighting59">
+        <feDistantLight
+           azimuth="225"
+           elevation="20"
+           id="feDistantLight59" />
+      </feDiffuseLighting>
+      <feComposite
+         result="result11"
+         in2="result10"
+         operator="arithmetic"
+         k2="0.5"
+         k3="0.5"
+         id="feComposite59" />
+      <feComposite
+         in="result11"
+         result="result9"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="SourceGraphic"
+         id="feComposite60" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         in="result9"
+         id="feComposite61" />
+    </filter>
+    <filter
+       inkscape:label="Basic Two Lights Bump"
+       inkscape:menu="Bumps"
+       inkscape:menu-tooltip="Two types of lighting emboss effect"
+       style="color-interpolation-filters:sRGB;"
+       id="filter64"
+       x="-0.17554617"
+       y="-0.43772622"
+       width="1.4059712"
+       height="1.6528254">
+      <feColorMatrix
+         result="result2"
+         type="luminanceToAlpha"
+         in="SourceGraphic"
+         id="feColorMatrix61" />
+      <feSpecularLighting
+         specularConstant="0.5"
+         surfaceScale="-15"
+         specularExponent="10"
+         result="result10"
+         id="feSpecularLighting61">
+        <feDistantLight
+           elevation="20"
+           azimuth="225"
+           id="feDistantLight61" />
+      </feSpecularLighting>
+      <feDiffuseLighting
+         diffuseConstant="0.5"
+         surfaceScale="15"
+         id="feDiffuseLighting62">
+        <feDistantLight
+           azimuth="225"
+           elevation="20"
+           id="feDistantLight62" />
+      </feDiffuseLighting>
+      <feComposite
+         result="result11"
+         in2="result10"
+         operator="arithmetic"
+         k2="0.5"
+         k3="0.5"
+         id="feComposite62" />
+      <feComposite
+         in="result11"
+         result="result9"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="SourceGraphic"
+         id="feComposite63" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         in="result9"
+         id="feComposite64" />
+    </filter>
+    <filter
+       inkscape:label="Basic Two Lights Bump"
+       inkscape:menu="Bumps"
+       inkscape:menu-tooltip="Two types of lighting emboss effect"
+       style="color-interpolation-filters:sRGB;"
+       id="filter67"
+       x="-0.24848222"
+       y="-0.13708094"
+       width="1.6086414"
+       height="1.3418972">
+      <feColorMatrix
+         result="result2"
+         type="luminanceToAlpha"
+         in="SourceGraphic"
+         id="feColorMatrix64" />
+      <feSpecularLighting
+         specularConstant="0.5"
+         surfaceScale="-15"
+         specularExponent="10"
+         result="result10"
+         id="feSpecularLighting64">
+        <feDistantLight
+           elevation="20"
+           azimuth="225"
+           id="feDistantLight64" />
+      </feSpecularLighting>
+      <feDiffuseLighting
+         diffuseConstant="0.5"
+         surfaceScale="15"
+         id="feDiffuseLighting65">
+        <feDistantLight
+           azimuth="225"
+           elevation="20"
+           id="feDistantLight65" />
+      </feDiffuseLighting>
+      <feComposite
+         result="result11"
+         in2="result10"
+         operator="arithmetic"
+         k2="0.5"
+         k3="0.5"
+         id="feComposite65" />
+      <feComposite
+         in="result11"
+         result="result9"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="SourceGraphic"
+         id="feComposite66" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         in="result9"
+         id="feComposite67" />
+    </filter>
+    <filter
+       inkscape:label="Basic Two Lights Bump"
+       inkscape:menu="Bumps"
+       inkscape:menu-tooltip="Two types of lighting emboss effect"
+       style="color-interpolation-filters:sRGB;"
+       id="filter70"
+       x="-0.011681488"
+       y="-0.01762123"
+       width="1.0378824"
+       height="1.0331677">
+      <feColorMatrix
+         result="result2"
+         type="luminanceToAlpha"
+         in="SourceGraphic"
+         id="feColorMatrix67" />
+      <feSpecularLighting
+         specularConstant="0.5"
+         surfaceScale="-15"
+         specularExponent="10"
+         result="result10"
+         id="feSpecularLighting67">
+        <feDistantLight
+           elevation="20"
+           azimuth="225"
+           id="feDistantLight67" />
+      </feSpecularLighting>
+      <feDiffuseLighting
+         diffuseConstant="0.5"
+         surfaceScale="15"
+         id="feDiffuseLighting68">
+        <feDistantLight
+           azimuth="225"
+           elevation="20"
+           id="feDistantLight68" />
+      </feDiffuseLighting>
+      <feComposite
+         result="result11"
+         in2="result10"
+         operator="arithmetic"
+         k2="0.5"
+         k3="0.5"
+         id="feComposite68" />
+      <feComposite
+         in="result11"
+         result="result9"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="SourceGraphic"
+         id="feComposite69" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         in="result9"
+         id="feComposite70" />
+    </filter>
+    <filter
+       inkscape:label="Basic Two Lights Bump"
+       inkscape:menu="Bumps"
+       inkscape:menu-tooltip="Two types of lighting emboss effect"
+       style="color-interpolation-filters:sRGB;"
+       id="filter73"
+       x="-0.20758757"
+       y="-0.14357245"
+       width="1.4696941"
+       height="1.4658298">
+      <feColorMatrix
+         result="result2"
+         type="luminanceToAlpha"
+         in="SourceGraphic"
+         id="feColorMatrix70" />
+      <feSpecularLighting
+         specularConstant="0.5"
+         surfaceScale="-15"
+         specularExponent="10"
+         result="result10"
+         id="feSpecularLighting70">
+        <feDistantLight
+           elevation="20"
+           azimuth="225"
+           id="feDistantLight70" />
+      </feSpecularLighting>
+      <feDiffuseLighting
+         diffuseConstant="0.5"
+         surfaceScale="15"
+         id="feDiffuseLighting71">
+        <feDistantLight
+           azimuth="225"
+           elevation="20"
+           id="feDistantLight71" />
+      </feDiffuseLighting>
+      <feComposite
+         result="result11"
+         in2="result10"
+         operator="arithmetic"
+         k2="0.5"
+         k3="0.5"
+         id="feComposite71" />
+      <feComposite
+         in="result11"
+         result="result9"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="SourceGraphic"
+         id="feComposite72" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         in="result9"
+         id="feComposite73" />
+    </filter>
+    <filter
+       inkscape:label="Basic Two Lights Bump"
+       inkscape:menu="Bumps"
+       inkscape:menu-tooltip="Two types of lighting emboss effect"
+       style="color-interpolation-filters:sRGB;"
+       id="filter76"
+       x="-0.16362987"
+       y="-0.16354809"
+       width="1.326157"
+       height="1.3499982">
+      <feColorMatrix
+         result="result2"
+         type="luminanceToAlpha"
+         in="SourceGraphic"
+         id="feColorMatrix73" />
+      <feSpecularLighting
+         specularConstant="0.5"
+         surfaceScale="-15"
+         specularExponent="10"
+         result="result10"
+         id="feSpecularLighting73">
+        <feDistantLight
+           elevation="20"
+           azimuth="225"
+           id="feDistantLight73" />
+      </feSpecularLighting>
+      <feDiffuseLighting
+         diffuseConstant="0.5"
+         surfaceScale="15"
+         id="feDiffuseLighting74">
+        <feDistantLight
+           azimuth="225"
+           elevation="20"
+           id="feDistantLight74" />
+      </feDiffuseLighting>
+      <feComposite
+         result="result11"
+         in2="result10"
+         operator="arithmetic"
+         k2="0.5"
+         k3="0.5"
+         id="feComposite74" />
+      <feComposite
+         in="result11"
+         result="result9"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="SourceGraphic"
+         id="feComposite75" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         in="result9"
+         id="feComposite76" />
+    </filter>
+    <filter
+       inkscape:label="Basic Two Lights Bump"
+       inkscape:menu="Bumps"
+       inkscape:menu-tooltip="Two types of lighting emboss effect"
+       style="color-interpolation-filters:sRGB;"
+       id="filter79"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         result="result2"
+         type="luminanceToAlpha"
+         in="SourceGraphic"
+         id="feColorMatrix76" />
+      <feSpecularLighting
+         specularConstant="0.5"
+         surfaceScale="-15"
+         specularExponent="10"
+         result="result10"
+         id="feSpecularLighting76">
+        <feDistantLight
+           elevation="20"
+           azimuth="225"
+           id="feDistantLight76" />
+      </feSpecularLighting>
+      <feDiffuseLighting
+         diffuseConstant="0.5"
+         surfaceScale="15"
+         id="feDiffuseLighting77">
+        <feDistantLight
+           azimuth="225"
+           elevation="20"
+           id="feDistantLight77" />
+      </feDiffuseLighting>
+      <feComposite
+         result="result11"
+         in2="result10"
+         operator="arithmetic"
+         k2="0.5"
+         k3="0.5"
+         id="feComposite77" />
+      <feComposite
+         in="result11"
+         result="result9"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="SourceGraphic"
+         id="feComposite78" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         in="result9"
+         id="feComposite79" />
+    </filter>
+    <filter
+       inkscape:label="Basic Two Lights Bump"
+       inkscape:menu="Bumps"
+       inkscape:menu-tooltip="Two types of lighting emboss effect"
+       style="color-interpolation-filters:sRGB;"
+       id="filter82"
+       x="-0.018969367"
+       y="-0.010837191"
+       width="1.0327225"
+       height="1.0216393">
+      <feColorMatrix
+         result="result2"
+         type="luminanceToAlpha"
+         in="SourceGraphic"
+         id="feColorMatrix79" />
+      <feSpecularLighting
+         specularConstant="0.5"
+         surfaceScale="-15"
+         specularExponent="10"
+         result="result10"
+         id="feSpecularLighting79">
+        <feDistantLight
+           elevation="20"
+           azimuth="225"
+           id="feDistantLight79" />
+      </feSpecularLighting>
+      <feDiffuseLighting
+         diffuseConstant="0.5"
+         surfaceScale="15"
+         id="feDiffuseLighting80">
+        <feDistantLight
+           azimuth="225"
+           elevation="20"
+           id="feDistantLight80" />
+      </feDiffuseLighting>
+      <feComposite
+         result="result11"
+         in2="result10"
+         operator="arithmetic"
+         k2="0.5"
+         k3="0.5"
+         id="feComposite80" />
+      <feComposite
+         in="result11"
+         result="result9"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="SourceGraphic"
+         id="feComposite81" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         in="result9"
+         id="feComposite82" />
+    </filter>
+    <filter
+       inkscape:label="Basic Two Lights Bump"
+       inkscape:menu="Bumps"
+       inkscape:menu-tooltip="Two types of lighting emboss effect"
+       style="color-interpolation-filters:sRGB;"
+       id="filter85"
+       x="-0.057912431"
+       y="-0.060466992"
+       width="1.1347133"
+       height="1.1310181">
+      <feColorMatrix
+         result="result2"
+         type="luminanceToAlpha"
+         in="SourceGraphic"
+         id="feColorMatrix82" />
+      <feSpecularLighting
+         specularConstant="0.5"
+         surfaceScale="-15"
+         specularExponent="10"
+         result="result10"
+         id="feSpecularLighting82">
+        <feDistantLight
+           elevation="20"
+           azimuth="225"
+           id="feDistantLight82" />
+      </feSpecularLighting>
+      <feDiffuseLighting
+         diffuseConstant="0.5"
+         surfaceScale="15"
+         id="feDiffuseLighting83">
+        <feDistantLight
+           azimuth="225"
+           elevation="20"
+           id="feDistantLight83" />
+      </feDiffuseLighting>
+      <feComposite
+         result="result11"
+         in2="result10"
+         operator="arithmetic"
+         k2="0.5"
+         k3="0.5"
+         id="feComposite83" />
+      <feComposite
+         in="result11"
+         result="result9"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="SourceGraphic"
+         id="feComposite84" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         in="result9"
+         id="feComposite85" />
+    </filter>
+    <filter
+       inkscape:label="Basic Two Lights Bump"
+       inkscape:menu="Bumps"
+       inkscape:menu-tooltip="Two types of lighting emboss effect"
+       style="color-interpolation-filters:sRGB;"
+       id="filter88"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         result="result2"
+         type="luminanceToAlpha"
+         in="SourceGraphic"
+         id="feColorMatrix85" />
+      <feSpecularLighting
+         specularConstant="0.5"
+         surfaceScale="-15"
+         specularExponent="10"
+         result="result10"
+         id="feSpecularLighting85">
+        <feDistantLight
+           elevation="20"
+           azimuth="225"
+           id="feDistantLight85" />
+      </feSpecularLighting>
+      <feDiffuseLighting
+         diffuseConstant="0.5"
+         surfaceScale="15"
+         id="feDiffuseLighting86">
+        <feDistantLight
+           azimuth="225"
+           elevation="20"
+           id="feDistantLight86" />
+      </feDiffuseLighting>
+      <feComposite
+         result="result11"
+         in2="result10"
+         operator="arithmetic"
+         k2="0.5"
+         k3="0.5"
+         id="feComposite86" />
+      <feComposite
+         in="result11"
+         result="result9"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="SourceGraphic"
+         id="feComposite87" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         in="result9"
+         id="feComposite88" />
+    </filter>
+    <filter
+       inkscape:label="Basic Two Lights Bump"
+       inkscape:menu="Bumps"
+       inkscape:menu-tooltip="Two types of lighting emboss effect"
+       style="color-interpolation-filters:sRGB;"
+       id="filter91"
+       x="-0.021625228"
+       y="-0.026066694"
+       width="1.0433634"
+       height="1.0459715">
+      <feColorMatrix
+         result="result2"
+         type="luminanceToAlpha"
+         in="SourceGraphic"
+         id="feColorMatrix88" />
+      <feSpecularLighting
+         specularConstant="0.5"
+         surfaceScale="-15"
+         specularExponent="10"
+         result="result10"
+         id="feSpecularLighting88">
+        <feDistantLight
+           elevation="20"
+           azimuth="225"
+           id="feDistantLight88" />
+      </feSpecularLighting>
+      <feDiffuseLighting
+         diffuseConstant="0.5"
+         surfaceScale="15"
+         id="feDiffuseLighting89">
+        <feDistantLight
+           azimuth="225"
+           elevation="20"
+           id="feDistantLight89" />
+      </feDiffuseLighting>
+      <feComposite
+         result="result11"
+         in2="result10"
+         operator="arithmetic"
+         k2="0.5"
+         k3="0.5"
+         id="feComposite89" />
+      <feComposite
+         in="result11"
+         result="result9"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="SourceGraphic"
+         id="feComposite90" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         in="result9"
+         id="feComposite91" />
+    </filter>
+    <filter
+       inkscape:label="Basic Two Lights Bump"
+       inkscape:menu="Bumps"
+       inkscape:menu-tooltip="Two types of lighting emboss effect"
+       style="color-interpolation-filters:sRGB;"
+       id="filter94"
+       x="-0.049307439"
+       y="-0.082653552"
+       width="1.0984656"
+       height="1.165285">
+      <feColorMatrix
+         result="result2"
+         type="luminanceToAlpha"
+         in="SourceGraphic"
+         id="feColorMatrix91" />
+      <feSpecularLighting
+         specularConstant="0.5"
+         surfaceScale="-15"
+         specularExponent="10"
+         result="result10"
+         id="feSpecularLighting91">
+        <feDistantLight
+           elevation="20"
+           azimuth="225"
+           id="feDistantLight91" />
+      </feSpecularLighting>
+      <feDiffuseLighting
+         diffuseConstant="0.5"
+         surfaceScale="15"
+         id="feDiffuseLighting92">
+        <feDistantLight
+           azimuth="225"
+           elevation="20"
+           id="feDistantLight92" />
+      </feDiffuseLighting>
+      <feComposite
+         result="result11"
+         in2="result10"
+         operator="arithmetic"
+         k2="0.5"
+         k3="0.5"
+         id="feComposite92" />
+      <feComposite
+         in="result11"
+         result="result9"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="SourceGraphic"
+         id="feComposite93" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         in="result9"
+         id="feComposite94" />
+    </filter>
+    <filter
+       inkscape:label="Basic Two Lights Bump"
+       inkscape:menu="Bumps"
+       inkscape:menu-tooltip="Two types of lighting emboss effect"
+       style="color-interpolation-filters:sRGB;"
+       id="filter97"
+       x="-0.035378385"
+       y="-0.071571879"
+       width="1.0707076"
+       height="1.1437058">
+      <feColorMatrix
+         result="result2"
+         type="luminanceToAlpha"
+         in="SourceGraphic"
+         id="feColorMatrix94" />
+      <feSpecularLighting
+         specularConstant="0.5"
+         surfaceScale="-15"
+         specularExponent="10"
+         result="result10"
+         id="feSpecularLighting94">
+        <feDistantLight
+           elevation="20"
+           azimuth="225"
+           id="feDistantLight94" />
+      </feSpecularLighting>
+      <feDiffuseLighting
+         diffuseConstant="0.5"
+         surfaceScale="15"
+         id="feDiffuseLighting95">
+        <feDistantLight
+           azimuth="225"
+           elevation="20"
+           id="feDistantLight95" />
+      </feDiffuseLighting>
+      <feComposite
+         result="result11"
+         in2="result10"
+         operator="arithmetic"
+         k2="0.5"
+         k3="0.5"
+         id="feComposite95" />
+      <feComposite
+         in="result11"
+         result="result9"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="SourceGraphic"
+         id="feComposite96" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         in="result9"
+         id="feComposite97" />
+    </filter>
+    <filter
+       inkscape:label="Basic Two Lights Bump"
+       inkscape:menu="Bumps"
+       inkscape:menu-tooltip="Two types of lighting emboss effect"
+       style="color-interpolation-filters:sRGB;"
+       id="filter100"
+       x="-0.025691726"
+       y="-0.02392074"
+       width="1.0551294"
+       height="1.0430983">
+      <feColorMatrix
+         result="result2"
+         type="luminanceToAlpha"
+         in="SourceGraphic"
+         id="feColorMatrix97" />
+      <feSpecularLighting
+         specularConstant="0.5"
+         surfaceScale="-15"
+         specularExponent="10"
+         result="result10"
+         id="feSpecularLighting97">
+        <feDistantLight
+           elevation="20"
+           azimuth="225"
+           id="feDistantLight97" />
+      </feSpecularLighting>
+      <feDiffuseLighting
+         diffuseConstant="0.5"
+         surfaceScale="15"
+         id="feDiffuseLighting98">
+        <feDistantLight
+           azimuth="225"
+           elevation="20"
+           id="feDistantLight98" />
+      </feDiffuseLighting>
+      <feComposite
+         result="result11"
+         in2="result10"
+         operator="arithmetic"
+         k2="0.5"
+         k3="0.5"
+         id="feComposite98" />
+      <feComposite
+         in="result11"
+         result="result9"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="SourceGraphic"
+         id="feComposite99" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         in="result9"
+         id="feComposite100" />
+    </filter>
+    <filter
+       inkscape:label="Basic Two Lights Bump"
+       inkscape:menu="Bumps"
+       inkscape:menu-tooltip="Two types of lighting emboss effect"
+       style="color-interpolation-filters:sRGB;"
+       id="filter103"
+       x="-0.092625871"
+       y="-0.038313488"
+       width="1.1868561"
+       height="1.0762764">
+      <feColorMatrix
+         result="result2"
+         type="luminanceToAlpha"
+         in="SourceGraphic"
+         id="feColorMatrix100" />
+      <feSpecularLighting
+         specularConstant="0.5"
+         surfaceScale="-15"
+         specularExponent="10"
+         result="result10"
+         id="feSpecularLighting100">
+        <feDistantLight
+           elevation="20"
+           azimuth="225"
+           id="feDistantLight100" />
+      </feSpecularLighting>
+      <feDiffuseLighting
+         diffuseConstant="0.5"
+         surfaceScale="15"
+         id="feDiffuseLighting101">
+        <feDistantLight
+           azimuth="225"
+           elevation="20"
+           id="feDistantLight101" />
+      </feDiffuseLighting>
+      <feComposite
+         result="result11"
+         in2="result10"
+         operator="arithmetic"
+         k2="0.5"
+         k3="0.5"
+         id="feComposite101" />
+      <feComposite
+         in="result11"
+         result="result9"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="SourceGraphic"
+         id="feComposite102" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         in="result9"
+         id="feComposite103" />
+    </filter>
+    <filter
+       inkscape:label="Basic Two Lights Bump"
+       inkscape:menu="Bumps"
+       inkscape:menu-tooltip="Two types of lighting emboss effect"
+       style="color-interpolation-filters:sRGB;"
+       id="filter106"
+       x="-0.043340081"
+       y="-0.054665161"
+       width="1.0866802"
+       height="1.1094499">
+      <feColorMatrix
+         result="result2"
+         type="luminanceToAlpha"
+         in="SourceGraphic"
+         id="feColorMatrix103" />
+      <feSpecularLighting
+         specularConstant="0.5"
+         surfaceScale="-15"
+         specularExponent="10"
+         result="result10"
+         id="feSpecularLighting103">
+        <feDistantLight
+           elevation="20"
+           azimuth="225"
+           id="feDistantLight103" />
+      </feSpecularLighting>
+      <feDiffuseLighting
+         diffuseConstant="0.5"
+         surfaceScale="15"
+         id="feDiffuseLighting104">
+        <feDistantLight
+           azimuth="225"
+           elevation="20"
+           id="feDistantLight104" />
+      </feDiffuseLighting>
+      <feComposite
+         result="result11"
+         in2="result10"
+         operator="arithmetic"
+         k2="0.5"
+         k3="0.5"
+         id="feComposite104" />
+      <feComposite
+         in="result11"
+         result="result9"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="SourceGraphic"
+         id="feComposite105" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         in="result9"
+         id="feComposite106" />
+    </filter>
+    <filter
+       inkscape:label="Basic Two Lights Bump"
+       inkscape:menu="Bumps"
+       inkscape:menu-tooltip="Two types of lighting emboss effect"
+       style="color-interpolation-filters:sRGB;"
+       id="filter109"
+       x="0"
+       y="-0.028502157"
+       width="1.0257863"
+       height="1.0570444">
+      <feColorMatrix
+         result="result2"
+         type="luminanceToAlpha"
+         in="SourceGraphic"
+         id="feColorMatrix106" />
+      <feSpecularLighting
+         specularConstant="0.5"
+         surfaceScale="-15"
+         specularExponent="10"
+         result="result10"
+         id="feSpecularLighting106">
+        <feDistantLight
+           elevation="20"
+           azimuth="225"
+           id="feDistantLight106" />
+      </feSpecularLighting>
+      <feDiffuseLighting
+         diffuseConstant="0.5"
+         surfaceScale="15"
+         id="feDiffuseLighting107">
+        <feDistantLight
+           azimuth="225"
+           elevation="20"
+           id="feDistantLight107" />
+      </feDiffuseLighting>
+      <feComposite
+         result="result11"
+         in2="result10"
+         operator="arithmetic"
+         k2="0.5"
+         k3="0.5"
+         id="feComposite107" />
+      <feComposite
+         in="result11"
+         result="result9"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="SourceGraphic"
+         id="feComposite108" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         in="result9"
+         id="feComposite109" />
+    </filter>
+    <filter
+       inkscape:label="Basic Two Lights Bump"
+       inkscape:menu="Bumps"
+       inkscape:menu-tooltip="Two types of lighting emboss effect"
+       style="color-interpolation-filters:sRGB;"
+       id="filter112"
+       x="-0.10258733"
+       y="-0.055414105"
+       width="1.157327"
+       height="1.0880285">
+      <feColorMatrix
+         result="result2"
+         type="luminanceToAlpha"
+         in="SourceGraphic"
+         id="feColorMatrix109" />
+      <feSpecularLighting
+         specularConstant="0.5"
+         surfaceScale="-15"
+         specularExponent="10"
+         result="result10"
+         id="feSpecularLighting109">
+        <feDistantLight
+           elevation="20"
+           azimuth="225"
+           id="feDistantLight109" />
+      </feSpecularLighting>
+      <feDiffuseLighting
+         diffuseConstant="0.5"
+         surfaceScale="15"
+         id="feDiffuseLighting110">
+        <feDistantLight
+           azimuth="225"
+           elevation="20"
+           id="feDistantLight110" />
+      </feDiffuseLighting>
+      <feComposite
+         result="result11"
+         in2="result10"
+         operator="arithmetic"
+         k2="0.5"
+         k3="0.5"
+         id="feComposite110" />
+      <feComposite
+         in="result11"
+         result="result9"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="SourceGraphic"
+         id="feComposite111" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         in="result9"
+         id="feComposite112" />
+    </filter>
+    <filter
+       inkscape:label="Basic Two Lights Bump"
+       inkscape:menu="Bumps"
+       inkscape:menu-tooltip="Two types of lighting emboss effect"
+       style="color-interpolation-filters:sRGB;"
+       id="filter115"
+       x="-0.040402767"
+       y="-0.080267315"
+       width="1.0812649"
+       height="1.1605086">
+      <feColorMatrix
+         result="result2"
+         type="luminanceToAlpha"
+         in="SourceGraphic"
+         id="feColorMatrix112" />
+      <feSpecularLighting
+         specularConstant="0.5"
+         surfaceScale="-15"
+         specularExponent="10"
+         result="result10"
+         id="feSpecularLighting112">
+        <feDistantLight
+           elevation="20"
+           azimuth="225"
+           id="feDistantLight112" />
+      </feSpecularLighting>
+      <feDiffuseLighting
+         diffuseConstant="0.5"
+         surfaceScale="15"
+         id="feDiffuseLighting113">
+        <feDistantLight
+           azimuth="225"
+           elevation="20"
+           id="feDistantLight113" />
+      </feDiffuseLighting>
+      <feComposite
+         result="result11"
+         in2="result10"
+         operator="arithmetic"
+         k2="0.5"
+         k3="0.5"
+         id="feComposite113" />
+      <feComposite
+         in="result11"
+         result="result9"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="SourceGraphic"
+         id="feComposite114" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         in="result9"
+         id="feComposite115" />
+    </filter>
+    <filter
+       inkscape:label="Basic Two Lights Bump"
+       inkscape:menu="Bumps"
+       inkscape:menu-tooltip="Two types of lighting emboss effect"
+       style="color-interpolation-filters:sRGB;"
+       id="filter118"
+       x="-0.02148665"
+       y="-0.01009133"
+       width="1.042242"
+       height="1.0210187">
+      <feColorMatrix
+         result="result2"
+         type="luminanceToAlpha"
+         in="SourceGraphic"
+         id="feColorMatrix115" />
+      <feSpecularLighting
+         specularConstant="0.5"
+         surfaceScale="-15"
+         specularExponent="10"
+         result="result10"
+         id="feSpecularLighting115">
+        <feDistantLight
+           elevation="20"
+           azimuth="225"
+           id="feDistantLight115" />
+      </feSpecularLighting>
+      <feDiffuseLighting
+         diffuseConstant="0.5"
+         surfaceScale="15"
+         id="feDiffuseLighting116">
+        <feDistantLight
+           azimuth="225"
+           elevation="20"
+           id="feDistantLight116" />
+      </feDiffuseLighting>
+      <feComposite
+         result="result11"
+         in2="result10"
+         operator="arithmetic"
+         k2="0.5"
+         k3="0.5"
+         id="feComposite116" />
+      <feComposite
+         in="result11"
+         result="result9"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="SourceGraphic"
+         id="feComposite117" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         in="result9"
+         id="feComposite118" />
+    </filter>
+    <filter
+       inkscape:label="Basic Two Lights Bump"
+       inkscape:menu="Bumps"
+       inkscape:menu-tooltip="Two types of lighting emboss effect"
+       style="color-interpolation-filters:sRGB;"
+       id="filter121"
+       x="-0.014454553"
+       y="-0.013582942"
+       width="1.0300572"
+       height="1.0307225">
+      <feColorMatrix
+         result="result2"
+         type="luminanceToAlpha"
+         in="SourceGraphic"
+         id="feColorMatrix118" />
+      <feSpecularLighting
+         specularConstant="0.5"
+         surfaceScale="-15"
+         specularExponent="10"
+         result="result10"
+         id="feSpecularLighting118">
+        <feDistantLight
+           elevation="20"
+           azimuth="225"
+           id="feDistantLight118" />
+      </feSpecularLighting>
+      <feDiffuseLighting
+         diffuseConstant="0.5"
+         surfaceScale="15"
+         id="feDiffuseLighting119">
+        <feDistantLight
+           azimuth="225"
+           elevation="20"
+           id="feDistantLight119" />
+      </feDiffuseLighting>
+      <feComposite
+         result="result11"
+         in2="result10"
+         operator="arithmetic"
+         k2="0.5"
+         k3="0.5"
+         id="feComposite119" />
+      <feComposite
+         in="result11"
+         result="result9"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="SourceGraphic"
+         id="feComposite120" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         in="result9"
+         id="feComposite121" />
+    </filter>
+    <filter
+       inkscape:label="Basic Two Lights Bump"
+       inkscape:menu="Bumps"
+       inkscape:menu-tooltip="Two types of lighting emboss effect"
+       style="color-interpolation-filters:sRGB;"
+       id="filter124"
+       x="-0.017792731"
+       y="-0.018196055"
+       width="1.0323578"
+       height="1.0387084">
+      <feColorMatrix
+         result="result2"
+         type="luminanceToAlpha"
+         in="SourceGraphic"
+         id="feColorMatrix121" />
+      <feSpecularLighting
+         specularConstant="0.5"
+         surfaceScale="-15"
+         specularExponent="10"
+         result="result10"
+         id="feSpecularLighting121">
+        <feDistantLight
+           elevation="20"
+           azimuth="225"
+           id="feDistantLight121" />
+      </feSpecularLighting>
+      <feDiffuseLighting
+         diffuseConstant="0.5"
+         surfaceScale="15"
+         id="feDiffuseLighting122">
+        <feDistantLight
+           azimuth="225"
+           elevation="20"
+           id="feDistantLight122" />
+      </feDiffuseLighting>
+      <feComposite
+         result="result11"
+         in2="result10"
+         operator="arithmetic"
+         k2="0.5"
+         k3="0.5"
+         id="feComposite122" />
+      <feComposite
+         in="result11"
+         result="result9"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="SourceGraphic"
+         id="feComposite123" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         in="result9"
+         id="feComposite124" />
+    </filter>
+  </defs>
+  <g
+     transform="translate(-221.99133,-55.181)"
+     id="g43">
+    <g
+       stroke-miterlimit="10"
+       id="g42"
+       inkscape:path-effect="#path-effect125">
+      <g
+         stroke="#29000a"
+         stroke-width="2.5"
+         stroke-linecap="butt"
+         id="g5"
+         style="filter:url(#filter124)">
+        <path
+           d="m 272.64376,128.49557 c -0.0947,0.97475 -1.63213,1.58295 -2.2701,2.80975 -0.95697,0.8185 -0.61863,2.82527 -1.66367,4.21422 -0.14688,1.60538 -2.64526,2.48286 -4.12547,3.7781 -1.55798,0.82118 -2.9216,2.09225 -4.29402,3.08927 -1.39231,1.01148 -2.58806,2.07338 -3.88958,2.57752 -1.24346,0.48166 -2.23497,0.6441 -3.39554,0.4232 -0.96246,-0.0886 -2.69482,-1.24564 -3.71437,-1.78948 -0.93608,-0.49933 -0.96399,-0.33438 -1.48991,-0.63091 -1.86415,-1.05108 -3.57201,-2.30786 -5.01347,-3.56496 -1.43886,-1.25522 -2.3639,-2.37175 -3.14986,-3.41491 -0.78515,-1.04209 -1.40108,-2.00109 -1.29624,-2.40727 0.6947,-2.69141 2.17519,-4.23759 3.43825,-5.1159 1.26305,-0.87831 1.97272,-2.04619 1.97272,-2.04619 0,0 -0.74882,-1.23752 -1.23197,-2.0235 -0.48316,-0.78599 -0.27407,-1.09796 -0.32495,-1.57168 -0.1617,-1.50575 0.76468,-2.51821 2.03699,-3.23285 1.29494,-0.68729 2.93808,-1.0836 4.25594,-1.30306 1.32493,-0.22063 2.37379,-0.23454 2.37379,-0.23454 0,0 1.40645,-1.0877 1.51038,-2.66967 1.46458,-1.53305 -0.24636,-4.77348 -0.35987,-6.48809 -0.10991,-1.66023 0.12263,-1.83448 0.48244,-2.12205 1.01179,-0.80866 2.0855,-0.9811 3.05971,-0.6933 1.01285,0.33051 2.67675,1.39611 3.45812,2.58162 0.79283,1.20291 0.63541,2.37552 1.11827,4.3523 0.32689,1.33829 1.25404,2.69945 2.10194,3.79332 0.84789,1.09387 1.51676,1.68926 1.51676,1.68926 0,0 0.23545,-0.9768 0.8686,-1.99794 0.46145,-1.25155 1.45605,-2.81899 2.41275,-3.88395 0.97134,-1.08124 1.9825,-1.52421 2.85927,-1.85336 1.10071,-0.41322 1.83884,-0.29115 2.35503,0.28241 0.49179,0.54475 0.62456,0.77855 0.72458,2.05534 -0.0538,0.59458 0.91428,3.51549 0.76084,5.50158 0.74675,1.93115 -0.31531,3.51385 -0.71628,5.14045 -0.42414,1.7206 -0.68159,3.48123 -0.82418,4.94857 z"
+           fill="#ae00db"
+           id="path4"
+           inkscape:original-d="m 271.80975,128.40409 c -0.47359,4.87376 -8.65212,13.96862 -15.39254,16.57951 -3.73039,1.44497 -7.43808,-1.27797 -9.08617,-2.20723 -5.59244,-3.15322 -9.33848,-7.98981 -9.02379,-9.20896 1.38939,-5.38282 5.78119,-6.19195 5.78119,-6.19195 0,0 -2.21769,-3.62766 -2.31944,-4.57511 -0.4851,-4.51725 9.01467,-4.80136 9.01467,-4.80136 0,0 0.50592,-10.40574 1.60301,-11.28258 3.03537,-2.42597 6.32496,0.52693 7.76305,6.41439 0.65379,2.67658 3.70011,5.59616 3.70011,5.59616 0,0 3.52134,-6.87889 6.13187,-7.85891 5.50353,-2.06607 2.56274,9.97547 1.82806,17.53606 z" />
+        <path
+           d="m 284.02362,157.95475 c -2.56875,-0.19067 -5.323,0.0944 -7.73221,-0.17837 -2.58444,-0.77675 -4.18679,-0.3942 -6.30528,-0.69998 -2.04946,-0.18874 -4.85096,-1.86038 -6.99,-2.24114 -2.14362,-1.49226 -3.58736,-0.58031 -5.29211,-0.90558 -1.79562,-0.27318 -3.05121,-0.69375 -4.71043,-1.03512 -1.23424,-0.36016 -3.78712,-1.01684 -5.36714,-1.36015 -1.52561,-0.55542 -2.0906,-0.24657 -3.17939,-0.47969 -0.90667,0.0127 -2.66731,-0.73349 -3.69455,-0.97375 -0.9765,-0.37352 -1.5805,-0.40996 -2.15559,-0.53277 -0.65872,-0.1907 -1.40187,-1.19573 -1.70575,-1.2421 -0.32424,-0.0495 -0.35947,0.50424 -0.35947,0.50424 l 2.22999,-4.6975 2.16437,-4.03156 2.286,-4.65477 2.10254,-3.5787 2.47018,-3.38612 3.94148,-3.50389 2.7667,-3.32791 2.23134,-5.17901 1.96198,-2.94049 2.91113,-3.54999 2.51004,-3.93369 3.20834,-3.63518 1.92936,-4.038989 c -0.001,-7e-4 0.78575,0.41055 0.99466,0.859897 0.86487,0.536187 0.38813,0.848682 0.7099,1.467582 0.38472,0.75808 0.72592,1.37922 1.42519,2.47237 0.50016,0.7553 2.02197,2.61805 3.13618,3.98434 1.30669,1.31953 2.08868,2.41936 3.27845,3.59964 1.39382,1.37309 2.9527,2.72764 4.57453,3.93716 1.87362,1.41512 3.79447,2.63273 5.79135,3.65551 2.04649,1.0482 4.76722,1.98551 7.39225,2.83389 2.79987,0.9049 5.1396,0.83449 7.56783,1.38547 2.29353,-0.19884 5.0219,1.08184 7.19076,1.37811 2.08976,0.35119 3.61554,0.0332 5.27704,0.11726 1.54921,-0.31534 4.22494,0.24033 5.62665,0.20981 1.87566,0.11329 2.72804,0.27819 3.4915,0.21105 1.56187,0.28778 1.28136,-0.65728 1.74381,-0.76502 0.67554,-0.65929 1.02539,-0.38278 1.31065,-0.45684 0.43008,-0.11164 1.10119,0.0202 1.10119,0.0202 0,0 -0.0812,0.79537 -0.15978,2.14277 -0.13751,1.24825 -0.2359,2.08476 -0.44727,3.88882 -0.20732,1.76942 -0.41346,4.6605 -0.84007,5.88415 -0.43971,1.26126 -1.06441,3.00201 -2.08294,4.54923 -0.74065,1.71912 -2.33584,2.68671 -3.28255,3.77589 -0.93214,1.07243 -1.66668,1.83233 -1.66668,1.83233 0,0 0.71438,0.54943 0.39431,0.88625 0.50639,0.74723 -1.07711,0.75069 -1.8963,1.44631 -0.79619,0.37011 -1.67912,1.06081 -2.66731,1.78133 -1.13066,0.51863 -2.10806,1.46924 -3.3661,2.24668 -1.28127,0.77552 -2.64445,1.58644 -4.19471,2.35371 -1.52961,0.77927 -3.0131,1.56619 -4.86563,2.23538 -1.63262,0.7312 -4.30167,0.54564 -6.5347,1.01743 -2.43076,-0.29748 -4.30838,0.52082 -6.59469,0.87744 -2.39306,0.37327 -3.98281,1.33699 -6.6787,1.13688 z"
+           fill="#420057"
+           id="path5"
+           inkscape:original-d="m 284.06739,158.99522 c -28.25627,-2.09742 -47.30723,-9.7626 -47.30723,-9.7626 l 32.47405,-50.88568 c 0,0 6.23182,15.98522 26.48917,22.53223 22.39894,7.23915 33.6307,2.33603 33.6307,2.33603 0,0 0.29567,8.21595 -0.99668,11.92283 -1.31914,3.7838 -6.8225,10.4844 -6.8225,10.4844 0,0 -13.22491,15.17232 -37.46749,13.37281 z" />
+      </g>
+      <g
+         stroke="#29000a"
+         stroke-width="2.5"
+         id="g8"
+         style="filter:url(#filter121)">
+        <path
+           d="m 245.42318,163.14085 3.91577,2.41983 4.04455,2.64746 4.85808,2.9709 3.04334,1.92501 4.77603,3.08112 3.24599,2.10867 3.93028,1.43242 4.27129,2.71287 5.30302,3.1486 3.75706,2.52813 3.44925,2.54815 3.94864,2.81089 3.72402,2.78955 3.66275,2.72108 4.57121,2.98796 3.77048,2.83274 -0.6741,4.38405 -0.63242,4.75172 -1.94233,4.74735 -2.02676,4.12898 -2.47864,3.76844 -4.48009,-2.02109 -3.85696,-1.40872 -4.70085,-1.84688 -4.74731,-2.51902 -3.99209,-1.62374 -4.36877,-1.71753 -4.57645,-2.12766 -4.12494,-1.56934 -4.3187,-1.60411 -4.67579,-1.89354 -3.97795,-1.39624 -4.4388,-1.57168 -4.22948,-1.51084 -4.94912,-1.98009 -3.2412,-1.60202 -5.36562,-1.76373 1.57129,-4.55588 1.64288,-4.3542 1.69771,-4.39489 1.8232,-4.29193 1.66077,-4.53112 1.64381,-4.55855 1.50269,-4.7862 z"
+           fill="#ae00db"
+           stroke-linecap="butt"
+           id="path6"
+           inkscape:original-d="m 245.38194,163.12412 63.54564,41.46411 -6.92272,22.06844 -70.28292,-28.36099 z" />
+        <path
+           d="m 245.08783,162.42787 3.914,3.0351 3.58778,2.09287 3.80827,2.47684 4.63029,2.6113 2.9063,1.82622 4.1843,2.90251 2.8285,1.51611 5.03184,3.30874 2.67653,2.10411 3.37633,2.68693 0.46734,4.75962 0.3859,4.71779 0.54556,4.89631 0.37302,4.62766 0.32033,3.22603 0.42682,6.25814 0.0548,4.37128 -3.93906,-1.499 -3.78828,-1.44697 -4.65293,-1.93221 -4.04234,-1.87029 -4.00083,-2.02731 -4.06822,-1.72306 -3.35105,-1.3156 -4.54731,-1.67544 -3.94166,-1.34401 -3.41053,-1.39679 -5.27121,-2.1525 -3.91329,-1.36237 -3.9101,-1.31267 2.08719,-4.3171 2.75824,-4.39521 2.14551,-3.97135 1.69697,-4.48364 1.92736,-4.40343 0.81309,-5.15306 1.74401,-4.25424 z"
+           fill="url(#color-1)"
+           stroke-linecap="butt"
+           id="path7"
+           inkscape:original-d="m 245.38194,163.12414 36.65022,23.86625 2.82492,33.22742 -53.31076,-21.48287 z" />
+        <path
+           d="m 223.30494,194.47286 c 0,0 -0.14475,-0.25333 -0.0551,-0.93516 -0.12592,-0.94644 0.40613,-1.52324 0.59621,-2.61597 0.3973,-1.19734 1.23382,-2.57987 1.56701,-4.19764 1.08863,-1.52728 0.58101,-3.48109 0.94295,-5.35183 0.30317,-1.98574 0.88809,-3.71729 1.43411,-5.68577 0.55066,-1.98522 0.83518,-5.20972 1.68342,-7.20589 0.74683,-1.75751 1.51814,-3.54557 2.31221,-5.31696 0.7851,-1.77891 1.80404,-3.35359 2.60808,-5.07815 1.0176,-1.56959 1.81195,-3.2989 2.58996,-4.94773 0.9685,-1.48225 1.32045,-3.49863 2.01326,-4.99199 0.46194,-1.68797 1.39833,-2.65081 1.97492,-3.84924 0.71548,-1.16233 1.1232,-2.40653 1.57927,-3.37912 0.43334,-0.98071 1.14718,-1.54858 1.43384,-2.16329 0.28798,-0.61752 0.73103,-1.24994 0.82059,-1.46165 0.16663,-0.39391 0.55212,-1.41632 1.51081,-1.85144 0.74596,-0.99364 2.45018,-0.74924 4.01271,-0.90687 1.57905,-0.0813 3.46806,0.13999 5.1607,0.46295 1.97734,0.57193 3.51308,0.8811 5.03035,1.78496 1.64021,0.9771 3.55555,2.70456 4.93553,4.75928 0.63422,0.94431 0.73911,1.91889 0.553,3.23827 -0.24957,1.15575 -0.78564,2.45018 -1.57961,4.0294 -0.83958,1.17817 -1.86663,2.58234 -3.01421,4.24437 -1.18875,0.9944 -2.49564,3.35979 -3.7358,4.9725 -1.17775,1.41001 -1.89677,2.98126 -2.85059,4.17037 -0.64619,1.34154 -1.71641,2.2728 -2.37535,2.93746 -0.6339,0.63941 -1.23465,-0.11582 -1.23465,-0.11582 0,0 -0.14033,0.73097 -0.70678,1.72155 -0.35064,1.11321 -1.37323,2.3277 -2.24609,3.83785 -0.87913,1.48852 -2.13744,2.43718 -2.99088,4.03752 -0.8515,1.59671 -1.36164,3.42104 -1.87258,4.66107 -0.46282,1.12325 -0.93485,2.70691 -1.42658,4.48943 -0.47028,1.7991 -1.0209,3.7327 -1.48187,5.72648 -0.50327,1.96633 -1.05804,3.8236 -1.42364,5.61024 -0.53668,1.62335 -0.60727,3.47208 -0.77529,4.63677 -0.15988,1.10823 -0.19989,1.7941 -0.19989,1.7941 l -3.63136,-1.64354 -3.6375,-1.6371 -3.2589,-1.35664 z"
+           fill="#2c0177"
+           stroke-linecap="round"
+           id="path8"
+           inkscape:original-d="m 223.32984,194.90617 c 0,0 1.4364,-13.55207 6.43133,-25.3066 5.97462,-14.06005 13.76512,-30.63065 14.47906,-32.31838 0.83314,-1.96951 13.87446,-6.06472 20.57317,3.90926 4.43951,6.61018 -13.55634,24.84272 -13.55634,24.84272 0,0 -5.73965,8.7232 -7.78606,13.68972 -2.31412,5.61626 -5.43787,21.78859 -5.43787,21.78859 z" />
+      </g>
+      <g
+         stroke="#29000a"
+         stroke-width="2.5"
+         id="g11"
+         style="filter:url(#filter118)">
+        <path
+           d="m 345.33508,263.8226 c 0,0 -0.87734,-0.19543 -1.23981,-0.17332 -0.38961,-0.0139 -0.79454,0.11052 -1.45188,0.12758 -0.60839,0.0807 -1.74541,-0.25431 -2.71119,-0.27175 -1.08191,-0.29571 -1.84695,-0.0607 -2.89298,-0.126 -1.13678,-0.0805 -2.26872,-0.11256 -3.55042,-0.26732 -1.23332,-0.0948 -2.83129,-0.72752 -4.24745,-1.00407 -1.45977,-0.61621 -2.57821,-0.52053 -3.93616,-0.89904 -1.37505,-0.35896 -2.92676,-0.88807 -4.38383,-1.46552 -1.42695,-0.564 -3.00397,-1.44418 -4.38004,-2.20479 -1.46489,-0.94354 -2.58719,-1.54807 -3.79569,-2.46562 -1.29201,-0.98463 -2.39715,-1.96991 -3.51586,-3.19173 -1.05993,-1.17151 -2.225,-2.68204 -3.15593,-4.25114 -0.91394,-1.53586 -1.4421,-3.18065 -2.07681,-5.02561 -0.39186,-1.83437 -0.23451,-3.80907 -0.56681,-6.02375 0.57887,-2.11957 0.10769,-4.47478 0.0141,-7.06444 0.60977,-2.43168 0.42371,-4.95638 0.58537,-7.92316 0.16145,-2.96275 0.0384,-6.42587 1.00194,-9.76965 0.52911,-1.83622 1.16621,-4.18409 1.91855,-6.06163 0.67201,-2.22012 2.40016,-3.18456 3.19934,-4.83981 1.75815,-1.43304 1.51681,-4.40954 2.26174,-5.94638 0.50345,-2.30946 1.70255,-2.16012 2.23879,-3.12129 1.14893,-0.93136 2.14527,-2.20818 2.43943,-2.91181 0.29616,-0.70841 -0.4284,-1.03605 -0.4284,-1.03605 l 3.98043,1.44603 3.45221,1.32644 3.66814,0.68649 5.36098,1.89037 1.85288,1.32547 c 0.0293,0.048 0.43487,0.75419 0.30994,1.4759 0.34502,0.97172 -0.39546,1.53062 -0.63596,2.68373 -0.34532,1.13674 -0.5935,2.71699 -0.93454,4.35834 -0.35044,1.57836 -0.51605,3.4518 -0.87096,5.26475 -0.17779,1.89529 -0.62728,3.6571 -0.97625,5.48413 -0.26371,1.88148 0.40261,3.70286 0.10225,5.44846 -0.30032,1.74536 -1.85192,2.99746 -1.97847,4.51076 -0.16824,2.01189 0.14594,3.79407 0.83981,5.41895 0.67928,1.60608 1.73531,2.76985 3.02246,4.04744 1.28977,0.9944 2.76909,2.13288 4.402,3.12255 1.52629,0.66916 3.29029,1.67781 4.93648,2.4044 1.56059,0.54771 3.28001,1.33798 4.62605,1.82861 1.40765,0.49129 2.31548,0.78844 3.07393,1.03228 0.79871,0.25678 1.73604,0.47458 1.73604,0.47458 l -0.64359,4.55838 -1.91522,4.14238 -1.94897,4.15405 -0.82714,4.58695 z"
+           fill="#ae00db"
+           stroke-linecap="butt"
+           id="path9"
+           inkscape:original-d="m 344.6849,263.64487 c 0,0 -56.16357,5.1775 -39.72354,-51.87537 3.17468,-11.01728 11.55877,-23.97521 11.55877,-23.97521 l 18.66101,7.1226 c 0,0 -4.1139,18.74385 -4.99481,29.27792 -1.1777,14.08323 21.99398,17.89019 21.99398,17.89019 z" />
+        <path
+           d="m 344.45329,262.41143 c 0,0 0.61756,1.00012 0.18509,1.04762 -0.0364,0.31173 -0.21517,0.26452 -1.23379,0.31305 0.0123,0.18925 -2.54835,-0.0891 -4.09069,-0.13348 -1.20926,-0.19601 -1.8743,0.18734 -3.12289,0.0768 -1.06868,0.15325 -2.9885,-0.30473 -4.60796,-0.59307 -1.46927,-0.24415 -2.24038,-0.52306 -3.80675,-0.96059 -0.98328,-0.41135 -3.48493,-1.10425 -5.31772,-1.87448 -1.46783,-0.65612 -2.36444,-1.13625 -3.92834,-2.04771 -0.89365,-0.68673 -3.71171,-2.60922 -5.38607,-3.97823 -1.59359,-1.52211 -2.72231,-2.39215 -3.90624,-3.68221 -1.45418,-1.5878 -1.81782,-2.74623 -2.85442,-4.51777 -1.1168,-1.9086 -2.60048,-4.23658 -3.29627,-6.64713 -0.33077,-1.14593 -0.10906,-3.10003 0.58268,-4.29208 0.6002,-1.85585 1.50625,-2.50798 2.75744,-3.52501 1.27242,-1.47856 3.12087,-2.5936 4.98633,-3.51181 1.81306,-1.29168 3.80772,-1.62717 5.73652,-2.1795 1.96252,-0.54186 4.50343,-0.75976 6.20524,-0.89829 2.1477,0.0406 2.57733,-0.29303 3.49231,-0.0758 1.10864,0.2632 1.66948,0.008 1.9317,0.94413 0.51259,1.83067 1.22264,2.50633 2.44723,4.0382 1.12659,0.70111 3.417,3.3062 5.26581,4.71678 1.85975,1.19331 3.09833,2.18217 4.64587,3.11266 1.63084,0.95861 3.90242,2.24294 5.30442,2.94499 1.82784,0.98196 2.0495,0.071 2.72608,0.35008 0.92919,0.38331 1.73649,1.64889 1.73649,1.64889 l -0.34571,4.30711 -0.82625,4.44732 -1.70689,3.7603 -0.89783,4.2284 z"
+           fill="url(#color-2)"
+           stroke-linecap="butt"
+           id="path10"
+           inkscape:original-d="m 344.83027,263.12084 c 0,0 -33.5905,5.0428 -41.92029,-23.81544 -2.31536,-8.02146 24.44057,-18.42001 26.11766,-12.43044 3.07554,10.98397 21.58978,15.61347 21.58978,15.61347 z" />
+        <path
+           d="m 362.82343,241.88397 c 0,0 0.0611,0.45757 -0.12061,1.16984 -0.0639,0.73343 -0.50963,1.67793 -0.85089,2.95095 -0.40082,1.21014 -0.57504,2.96534 -1.04311,4.65488 -0.27495,1.80674 -0.96214,3.44497 -1.52515,5.31389 -0.56259,1.91737 -1.24083,3.80729 -1.88938,5.80236 -0.69528,1.91514 -1.13915,4.16656 -1.81136,6.13322 -0.66317,1.94025 -1.31777,3.73286 -1.979,5.44304 -0.66417,1.71778 -0.62619,3.69177 -1.31828,5.43303 0.0184,1.99249 -1.08528,3.58973 -1.83438,5.2988 -0.40447,1.79011 -1.61761,3.23428 -2.41262,4.82562 -0.87208,1.43071 -1.84865,2.6608 -2.63338,4.07227 -1.05479,0.98946 -1.75899,2.3692 -2.46907,3.61534 -0.90039,0.76953 -1.14819,2.4521 -1.70728,3.45988 -0.52032,0.93789 -1.14824,1.65997 -1.66102,2.10726 -0.8551,0.7459 -2.16716,0.89531 -3.57728,1.26868 -1.4908,-0.0208 -3.15122,0.3046 -4.75841,0.42485 -1.75634,-0.17719 -2.53845,0.44748 -3.99851,0.42021 -1.04053,0.25622 -3.51954,-0.49685 -4.82368,-0.77642 -1.10284,-0.23641 -1.64284,-0.24333 -1.95958,-0.52422 -1.01989,-0.90445 -1.96572,-2.42438 -2.37542,-3.47806 -0.63077,-1.49235 0.27171,-1.67609 0.31105,-2.71202 0.81238,-1.06785 -0.1733,-3.65621 0.0706,-5.33775 0.2267,-1.56281 1.3982,-2.13673 1.9423,-4.11697 0.4207,-1.53113 0.91343,-2.92474 1.50316,-4.18491 0.60294,-1.24727 0.98012,-3.39354 1.83822,-4.34208 0.85792,-0.94832 2.14075,-0.80403 3.37587,-1.3902 1.85288,-0.87936 4.05533,-0.81898 5.81049,-0.0953 1.75515,0.72369 3.11947,2.12245 3.11947,2.12245 0,0 0.22,-0.76649 0.78024,-1.76256 0.42444,-1.14415 1.08452,-2.64886 1.9344,-4.15832 0.60923,-1.83078 2.06274,-3.00742 2.98235,-4.5662 0.94082,-1.59475 1.63693,-3.2155 2.21177,-4.58353 0.51177,-1.21788 1.06344,-2.83501 1.63996,-4.62074 0.5624,-1.79722 1.84932,-3.4475 2.40762,-5.39151 1.25706,-1.68974 0.64729,-4.67268 1.00653,-6.44952 -0.0707,-2.2339 0.81487,-2.74379 1.06595,-3.63865 0.30441,-1.08489 0.17544,-2.90555 0.17544,-2.90555 l 4.37044,0.33296 4.58096,0.18796 z"
+           fill="#2c0177"
+           stroke-linecap="round"
+           id="path11"
+           inkscape:original-d="m 362.86428,241.92738 c 0,0 -4.8052,19.35708 -9.45436,31.38151 -4.64916,12.02444 -9.9672,25.484 -13.83759,28.86009 -4.2755,3.72948 -17.55048,2.28735 -19.24327,0.78617 -4.07956,-3.6178 -2.5651,-8.11195 -0.42836,-15.88864 1.2621,-4.5934 3.55257,-7.80033 7.25833,-9.55905 3.70577,-1.75872 8.83071,1.92338 8.83071,1.92338 0,0 5.65547,-9.71598 7.91708,-15.09817 2.55881,-6.0894 6.49741,-21.77334 6.49741,-21.77334 z" />
+      </g>
+      <path
+         d="m 337.26772,104.74275 c 0,0 -0.92446,0.87315 -2.13446,1.971 -1.21,1.09786 -2.95199,1.35265 -4.38348,1.89306 -1.78842,0.67515 -3.80906,1.01742 -5.71325,1.17281 -1.91063,0.14617 -3.5977,0.19516 -4.95207,0.0891 -1.35745,-0.10626 -2.35564,-0.34884 -2.50284,-0.46564 -0.71684,-0.56887 -1.3232,-1.28544 -2.18532,-2.21872 -0.54739,-0.86659 -1.97607,-2.50191 -2.42398,-3.61245 -0.42106,-1.04397 -0.0497,-1.53987 0.67358,-2.44086 0.73807,-0.91938 3.01024,-1.657681 4.1208,-2.247472 2.11455,-0.402528 1.58103,-0.821483 2.39156,-1.056457 1.26599,-0.430981 2.6524,-0.452595 3.98406,-0.238213 1.23385,0.198634 2.293,-0.150015 3.54798,0.605322"
+         fill="#8c00d5"
+         stroke="#29000a"
+         stroke-width="2"
+         stroke-linecap="round"
+         id="path12"
+         style="filter:url(#filter115)"
+         inkscape:original-d="m 337.26772,104.74275 c 0,0 -3.4085,3.85102 -6.27148,4.93183 -5.36526,2.02544 -12.98948,0.0686 -13.43057,-0.28142 -2.15051,-1.7066 -6.36308,-5.59239 -4.12402,-8.38155 2.95229,-3.67752 9.80735,-4.79429 14.40716,-2.02579" />
+      <g
+         stroke-width="2.5"
+         stroke-linecap="butt"
+         id="g14"
+         style="filter:url(#filter112)">
+        <path
+           d="m 336.27644,126.44691 2.63574,-3.53966 2.60592,-3.6156 2.27832,-3.85635 2.54472,-3.59144 3.12502,-3.50744 1.5923,-3.94464 3.05874,0.73957 1.84704,0.53461 -0.28855,4.41006 -1.43521,4.14568 -0.83931,4.47888 -1.73205,3.17408 -1.57581,4.70921 -1.574,3.65467 -4.03518,-1.22258 -3.28061,-0.96665 z"
+           fill="#ae00db"
+           stroke="#29000a"
+           id="path13"
+           inkscape:original-d="m 336.26715,126.4375 14.64907,-22.12911 5.16573,1.53306 -7.33916,24.87979 z" />
+        <path
+           d="m 340.39419,120.07294 2.26228,-4.64092 2.51891,-3.72663 2.94878,-3.58028 3.66079,-3.69844 1.9383,0.28608 2.46403,1.15566 -1.29152,2.7504 -1.51766,5.44089 -0.53501,4.23807 -1.35962,4.23329 -1.21666,4.23241 -1.20323,4.13082 -2.77216,-3.49956 -2.66204,-3.46741 z"
+           fill="#3c000f"
+           stroke="none"
+           id="path14"
+           inkscape:original-d="m 340.39477,120.07443 10.52145,-15.76604 5.16573,1.53306 -7.33916,24.87979 z" />
+      </g>
+      <g
+         stroke-width="2.5"
+         stroke-linecap="butt"
+         id="g17"
+         style="filter:url(#filter109)">
+        <path
+           d="m 336.48871,92.816098 c 0.66025,-1.435855 1.39979,-2.951363 2.2978,-4.232485 1.32824,-1.158127 1.58555,-2.869251 2.5884,-3.918498 0.8436,-1.615263 2.28069,-1.933141 3.4581,-2.808252 1.38101,-0.799822 2.29437,-2.254037 3.654,-2.947773 1.15013,-1.236306 3.81579,-0.993145 5.33699,-1.396331 2.18246,-0.05052 2.46491,-0.580747 3.65145,-0.742823 1.51804,-0.203853 2.99182,-0.268939 4.4976,-0.169063 1.43653,0.09528 2.86405,0.0702 4.40017,0.47639 1.49165,0.394425 4.21529,1.074754 5.49557,1.745028 2.27686,0.632143 2.06721,1.268511 2.86126,1.891049 1.33275,1.057726 2.07904,1.831603 2.86889,2.871895 0.93797,1.181523 1.32524,2.011735 1.84368,3.348919 0.31595,1.041974 0.63285,2.250971 0.81852,3.890572 -0.11986,0.812996 0.29445,3.328151 0.17938,5.115146 -0.0233,1.50597 -0.3241,2.915608 -0.67104,4.374528 -0.3682,1.54833 -0.91366,3.01501 -1.57644,4.45635 -0.6898,1.5001 -1.57315,2.82179 -2.51024,4.14788 -1.00101,1.23639 -2.0061,2.32591 -3.15207,3.46587 -1.17543,0.91097 -2.69158,1.54801 -4.02333,2.49744 -1.57259,0.25847 -2.6606,1.79484 -4.06702,2.54129 -1.35086,0.73493 -2.5015,1.39634 -3.92698,1.89969 -1.23952,0.57963 -3.14134,0.82009 -4.71815,1.04945 -1.57221,0.11605 -3.238,-0.096 -4.7088,-0.16127 -1.51913,-0.0674 -2.38211,0.16231 -3.84653,-0.29795 -1.63069,-0.51251 -2.94016,-1.03538 -4.30312,-1.87287 -1.23819,-0.71391 -2.82059,-2.04595 -3.9391,-3.23082 -1.12585,-1.19787 -2.09785,-2.50909 -2.82534,-3.78328 -0.91381,-1.49189 -1.47251,-3.02247 -1.86746,-4.3965 -0.59801,-1.83386 0.69083,-2.72993 0.65497,-4.14587 1.26225,-1.54325 0.006,-3.183585 0.0745,-4.857612 0.0665,-1.615523 0.3518,-3.163945 1.13021,-4.856747 z"
+           fill="#ae00db"
+           stroke="#29000a"
+           id="path15"
+           inkscape:original-d="m 335.95341,92.6206 c 5.28206,-11.48684 18.80459,-18.35539 30.45283,-15.27533 11.93321,3.1554 17.34985,15.49917 11.83144,27.49996 -5.5184,12.00079 -19.68395,18.68319 -31.37805,15.00781 C 335.4448,116.26543 330.67134,104.10746 335.9534,92.6206 Z" />
+        <path
+           d="m 356.64982,112.51803 c 0.40977,-0.89111 1.46366,-1.637 2.90172,-1.87043 1.43806,-0.23343 3.25631,-0.96099 5.04831,-0.42386 1.8053,0.54112 3.79938,1.93404 4.72013,3.14091 0.92076,1.20687 0.86311,2.3185 0.44782,3.22162 -0.41529,0.90312 -1.72273,1.22232 -3.20296,1.42745 -1.48023,0.20513 -3.16127,0.0381 -4.96102,-0.51504 -1.78651,-0.54908 -3.18659,-1.30912 -4.077,-2.18694 -0.8904,-0.87781 -1.50674,-2.43808 -1.09697,-3.3292 z"
+           fill="#d900e5"
+           stroke="none"
+           id="path16"
+           inkscape:original-d="m 356.66548,112.54723 c 0.81953,-1.78223 4.37001,-2.36196 7.95402,-1.2877 3.61059,1.08223 5.88396,3.4297 5.05337,5.23594 -0.83058,1.80624 -4.44153,2.36761 -8.04104,1.26129 -3.57302,-1.09817 -5.7859,-3.42729 -4.96637,-5.20953 z" />
+        <path
+           d="m 332.34936,105.67506 c 0.39948,-0.86875 1.70434,-1.37502 3.07732,-1.61074 1.37298,-0.23573 3.47009,-0.12608 5.17252,0.38501 1.71474,0.51478 4.20859,1.31404 4.88077,2.18755 0.67217,0.8735 -0.35483,1.9346 -0.75955,2.81476 -0.40473,0.88016 -1.03168,1.70189 -2.45235,1.90409 -1.42067,0.2022 -3.75079,-0.37344 -5.46027,-0.89966 -1.6972,-0.52245 -2.42841,-1.08996 -3.24545,-1.96071 -0.81705,-0.87075 -1.92907,-2.3138 -1.52959,-3.18255 z"
+           fill="#d900e5"
+           stroke="none"
+           id="path17"
+           inkscape:original-d="m 332.24189,105.58187 c 0.79896,-1.73751 4.18896,-2.32276 7.59382,-1.30058 3.42947,1.02956 5.57166,3.29668 4.76221,5.05699 -0.80946,1.76032 -4.25543,2.32855 -7.67438,1.2761 -3.39441,-1.04489 -5.48061,-3.295 -4.68165,-5.03249 z" />
+      </g>
+      <path
+         d="m 345.5723,94.69999 c 0,0 -0.43948,-0.628956 -1.09943,0.516537 -0.73339,-0.141058 -1.36379,3.686699 -2.36177,5.690833 -0.81233,1.63129 -1.18291,2.94139 -1.84245,3.8465 -0.64478,0.88485 -0.67924,2.20824 -1.35902,3.13209 -0.11436,1.33012 -1.7387,1.6139 -2.79106,2.29795 -0.96936,0.6301 -1.93773,1.31701 -3.05357,1.69436 -1.15729,0.39136 -2.50192,0.70961 -3.87597,0.88526 -1.37889,0.1472 -2.97399,-0.0655 -4.27361,-0.34874 -1.30381,-0.28414 -1.47039,-0.52105 -2.41645,-1.53326"
+         fill="#8c00d5"
+         stroke="#29000a"
+         stroke-width="2"
+         stroke-linecap="round"
+         id="path18"
+         style="filter:url(#filter106)"
+         inkscape:original-d="m 345.5723,94.69999 c 0,0 -3.90345,6.97567 -6.10819,10.0013 -1.93434,2.65456 -2.91126,5.9934 -6.40213,7.17391 -3.47185,1.17408 -8.5634,1.9466 -11.39702,-1.08516" />
+      <path
+         d="m 373.16974,126.91432 c -1.66171,0.22812 -2.62788,0.33386 -3.95199,-0.2011 -0.88558,-0.22172 -2.83586,-1.6797 -3.98856,-2.7858 -1.00273,-0.96219 -1.77978,-1.88633 -2.33985,-2.78469 -0.89786,-1.44018 0.27071,-2.75673 0.63385,-4.28846 0.36314,-1.53173 0.52238,-3.17184 0.86352,-4.73113 0.25848,-1.18144 0.54687,-3.00806 0.97632,-4.66164 0.30125,-1.81404 0.68051,-3.49104 1.05054,-4.69472 0.38471,-1.25142 0.91312,-1.76619 0.91312,-1.76619"
+         fill="#8c00d5"
+         stroke="#29000a"
+         stroke-width="2"
+         stroke-linecap="round"
+         id="path19"
+         style="filter:url(#filter103)"
+         inkscape:original-d="m 373.16974,126.91432 c -4.98513,0.68435 -8.48626,-2.88688 -10.29212,-5.78349 -1.79572,-2.88035 0.22528,-5.9959 0.90756,-9.11447 0.77543,-3.54434 3.50032,-11.05492 3.50032,-11.05492" />
+      <path
+         d="m 369.4865,95.1719 c 0,0 0.60747,1.192988 1.19842,2.255784 0.59096,1.062797 1.08434,1.658519 2.44798,1.898834 1.3709,0.241605 3.726,0.263457 4.85647,0.183238 1.13047,-0.08022 1.04591,-0.253296 1.04591,-0.253296 0,0 -0.60826,1.9091 -2.56432,3.11922 -0.54335,0.33613 -0.99625,0.82865 -1.76075,1.01477 -0.7645,0.18613 -2.12056,-0.54422 -3.16541,-0.80735 -1.90335,-0.47933 -3.1817,-1.17093 -4.43479,-2.31127 -1.04586,-1.016914 -2.34898,-2.778333 -3.1036,-4.436368 -0.73159,-1.614199 -0.71367,-2.992178 -1.04575,-4.677572 0.11546,-1.594197 -0.9187,-4.287744 -1.03563,-6.020189 -0.45228,-2.098619 -0.11637,-2.941328 -0.0718,-4.081712 0.0356,-1.511179 0.0741,-2.776574 0.18563,-3.5124 0.1239,-0.817542 0.74245,-0.774006 0.74245,-0.774006 l 3.35803,-2.950917 3.52322,-1.365232 3.93791,-1.436529 3.33446,-1.611551 4.15294,-1.129244 4.135,-1.483664 1.76283,3.718234 2.95456,4.449155 2.38182,3.765725 1.58701,3.81191 1.7364,4.148991 1.64856,4.045723 1.75948,4.187365 1.46119,3.855516 -2.66247,3.172105 -2.99282,3.01205 -2.93658,2.97315 -2.42318,3.30651 -3.58197,2.34039 -2.85932,3.26331 -3.74851,0.6618 -5.12992,0.7471 -5.24826,0.13069 -4.64828,0.55445"
+         fill="#8c00d5"
+         stroke="#29000a"
+         stroke-width="2"
+         stroke-linecap="round"
+         id="path20"
+         style="filter:url(#filter100)"
+         inkscape:original-d="m 369.4865,95.1719 c 0,0 1.00017,4.01087 3.72744,4.4915 2.74181,0.48321 5.81174,-0.41615 5.81174,-0.41615 0,0 -0.55061,2.23672 -2.50667,3.44684 -1.08671,0.67227 -2.60455,1.02537 -4.69425,0.4991 -13.3234,-3.35529 -9.45085,-26.4941 -9.45085,-26.4941 l 22.02178,-10.1002 16.32142,32.42519 -17.73457,17.74505 -18.55687,2.51473" />
+      <path
+         d="m 375.92238,116.06287 c 1.641,-0.2619 3.27647,-0.51544 4.83965,-0.65818 1.55532,-0.15663 3.02641,-0.25593 4.33563,-0.12563 1.29244,0.0621 2.37767,0.36259 3.25401,0.93972 0.8597,0.56617 2.25449,1.68559 2.50032,2.79254 0.48566,2.36815 0.29725,4.13685 -0.31068,5.47167 -0.60844,1.33406 -1.5647,2.3023 -2.75909,2.93208 -1.13209,0.70163 -2.7844,0.19147 -4.08434,0.42763 -1.28099,0.23272 -2.28028,1.14956 -3.12062,1.35192 -0.17256,0.0416 -0.9424,-0.0607 -1.97541,-0.181 -1.08149,-0.19495 -1.73577,-0.16665 -3.1767,-0.48373 -0.94413,-0.18829 -3.56209,-1.0385 -5.29094,-1.72959 -1.52997,-0.61159 -2.99092,-1.68673 -4.01276,-2.5608 -1.1357,-0.97144 -1.90186,-2.45576 -2.43575,-3.71782 -0.53388,-1.26206 -0.82381,-2.29152 -0.82381,-2.29152"
+         fill="#8c00d5"
+         stroke="#29000a"
+         stroke-width="2"
+         stroke-linecap="round"
+         id="path21"
+         style="filter:url(#filter97)"
+         inkscape:original-d="m 375.92238,116.06287 c 6.56401,-1.04761 13.22625,-1.74477 14.22029,2.73132 1.94264,9.47259 -6.18228,9.58309 -9.56847,10.39851 -0.69026,0.16622 -9.94959,-0.74792 -14.27535,-4.4481 -2.2714,-1.94289 -3.44863,-6.52479 -3.44863,-6.52479" />
+      <path
+         d="m 382.44198,125.54427 c 0.60241,1.04159 1.44708,2.62653 1.61257,3.95027 0.50089,1.592 -0.097,2.59267 -0.96047,3.58378 -0.85901,0.986 -2.31835,0.2002 -4.52995,0.43847 -1.64464,0.17719 -3.12062,0.22561 -4.66032,0.0512 -1.42612,-0.12796 -3.1523,-1.03935 -4.46432,-1.57997 -1.24276,-0.97822 -2.00593,-0.86062 -2.78358,-1.50074 -0.87764,-0.72243 -1.31506,-1.51411 -1.505,-2.68166 -0.3619,-2.22442 -0.70193,-3.82566 -0.9366,-4.85517 -0.23467,-1.02951 -0.20876,-1.37229 -0.20876,-1.37229"
+         fill="#8c00d5"
+         stroke="#29000a"
+         stroke-width="2"
+         stroke-linecap="round"
+         id="path22"
+         style="filter:url(#filter94)"
+         inkscape:original-d="m 382.44198,125.54427 c 1.80723,3.12477 2.7801,8.75606 -3.87189,9.47273 -6.57856,0.70875 -13.01896,-2.9701 -13.74634,-7.44116 -0.7238,-4.44883 -0.97343,-6.11271 -0.97343,-6.11271" />
+      <path
+         d="m 334.32448,109.74838 c 0,0 -1.13874,0.4676 -2.70123,0.63184 -1.56249,0.16424 -3.65874,-0.23894 -5.52259,-1.63012 -1.34937,-1.00717 -1.51265,-2.45219 -1.88952,-3.94134 0.19005,-1.49045 -0.67175,-3.39202 -0.74041,-4.54974 -0.0679,-1.144028 0.1679,-1.488963 0.1679,-1.488963 l 0.50563,-4.035397 0.19991,-4.342601 1.32658,-4.145772 0.87437,-4.150882 -1.61437,-4.266878 3.21019,-2.597219 3.81672,-2.326155 2.94125,-2.458456 3.16476,-2.647683 3.23155,-2.592352 4.17076,-2.367027 3.20841,-2.705756 3.00109,2.554447 2.95452,2.036903 3.31883,2.728403 3.16012,2.900609 2.99737,2.750873 2.58988,2.238537 3.00573,2.028411 c 0.019,0.13055 -0.0702,0.720081 -0.53057,1.401439 -0.30755,0.818234 -0.7316,1.864055 -1.59301,2.907908 -0.47203,1.345189 -1.94026,2.290813 -3.17405,3.537512 -1.19298,1.247879 -2.64155,2.408914 -4.10766,3.631691 -1.52317,1.130235 -2.54342,2.710195 -4.15518,3.758408 -1.20541,1.407624 -3.24456,2.139313 -5.06751,2.80106 -1.50746,0.76494 -3.61903,-0.217739 -5.38719,-0.14132 -1.69742,0.07336 -3.3283,1.025793 -4.80763,0.539186 -1.79181,-1.03482 -2.57498,-2.625436 -2.72915,-3.950634 -0.21959,-1.535271 -0.0656,-3.016125 0.3777,-3.924522 0.47212,-0.96743 1.05373,-1.567312 1.05373,-1.567312 0,0 0.66575,1.447831 1.43475,2.847533 0.769,1.399702 1.58523,2.464524 2.75143,2.941089 1.17222,0.479045 3.21535,-0.273282 4.53757,-1.411883 1.32221,-1.138601 1.80966,-2.791021 1.80966,-2.791021"
+         fill="#8c00d5"
+         stroke="#29000a"
+         stroke-width="2"
+         stroke-linecap="round"
+         id="path23"
+         style="filter:url(#filter91)"
+         inkscape:original-d="m 334.32448,109.74838 c 0,0 -4.38611,2.04813 -8.11382,-0.73423 -4.04812,-3.02151 -2.65387,-10.31583 -2.65387,-10.31583 l 1.30281,-20.93364 22.68414,-17.92711 22.30984,18.57889 c 0,0 -16.47782,21.55542 -28.92995,17.45944 -5.37545,-3.10446 -1.08514,-9.01304 -1.08514,-9.01304 0,0 1.65273,4.62486 3.98512,5.57799 2.34445,0.95809 6.40508,-4.36211 6.40508,-4.36211" />
+      <path
+         d="m 374.48854,83.50564 -4.13928,0.960298 -3.38787,1.60305 -3.47179,1.505244 -0.65258,-2.008397 -2.39258,1.213397 -1.84829,-4.301636 -1.78157,-4.182008 3.52094,-2.120939 3.74538,-0.68335 4.14909,-0.499653 3.29664,-0.872588 0.74789,2.941427 0.76325,2.870072 z"
+         fill="#8c00d5"
+         stroke="none"
+         stroke-width="0"
+         stroke-linecap="butt"
+         id="path24"
+         style="filter:url(#filter88)"
+         inkscape:original-d="m 373.98432,83.18663 -10.80846,4.13117 -0.64608,-1.99391 -2.40243,1.24924 -3.09831,-7.93603 14.15378,-4.74804 z" />
+      <g
+         fill="none"
+         stroke="#29000a"
+         stroke-width="1.5"
+         stroke-linecap="round"
+         id="g27"
+         style="filter:url(#filter85)">
+        <path
+           d="m 384.32865,117.93544 1.26468,2.1128 2.30109,2.54312 -3.50686,0.46582 -3.62194,-0.0369 1.17002,-3.39808 1.31708,1.22588"
+           id="path25"
+           inkscape:original-d="m 384.32865,117.93544 2.61807,4.38829 -6.12335,1.1446 0.40324,-4.21353 1.9769,1.54591" />
+        <path
+           d="m 371.20684,129.01027 2.47309,-1.73782 1.7294,-2.21184 1.71715,2.80527 1.35418,2.25092 -5.28717,1.30745 0.83602,-3.47208"
+           id="path26"
+           inkscape:original-d="m 371.20684,129.01027 4.06997,-4.06976 2.15869,5.09208 -4.39714,1.28104 1.27427,-2.40214" />
+        <path
+           d="m 374.83197,122.56286 -3.37538,-0.47051 -3.27623,-0.33799 1.48945,-3.07381 2.38588,-1.77556 1.79222,0.90107 2.03313,1.69526 -3.4945,-0.4327"
+           id="path27"
+           inkscape:original-d="m 374.83197,122.56286 -6.6377,-0.77744 3.61615,-4.98393 4.10534,2.77928 -3.19834,0.47983" />
+      </g>
+      <path
+         d="m 304.61815,209.29878 -4.12201,1.54171 -3.23391,2.17313 -4.15733,2.05526 -3.99043,1.75835 -3.94068,1.67975 -3.54138,2.0761 -4.1736,0.80301 -4.18504,2.12324 c 0.0218,0.0394 0.0243,-0.56809 0.1333,-0.97156 0.0283,-0.74959 1.35234,-0.66071 1.50496,-1.2706 1.32484,-0.58359 0.71197,-1.46091 0.97323,-2.55569 0.57555,-0.92672 0.72855,-2.35155 1.08025,-3.81481 0.48277,-1.29642 0.62815,-3.35767 1.03991,-5.00243 0.29113,-1.90819 1.32852,-2.75959 1.76989,-4.40101 1.03321,-1.49241 1.41823,-3.65063 1.97442,-5.59005 0.94147,-1.79508 1.08753,-4.34061 1.6751,-6.25401 0.53795,-2.34273 1.00802,-4.81044 1.60489,-6.54879 0.4428,-2.86898 1.00156,-3.29334 1.60225,-4.76765 0.64609,-2.04294 1.93333,-3.35762 2.80258,-5.01945 1.27024,-1.47062 2.37682,-3.09413 3.35408,-4.65262 1.49108,-1.21341 1.52208,-3.41663 2.45825,-4.79877 0.90409,-1.33478 2.3382,-2.05091 3.5409,-3.07543 2.07712,-1.76938 3.58069,-4.49497 4.70925,-5.32021 1.01929,-2.33681 1.58494,-2.02575 2.12215,-2.13879 0.64528,-0.13577 0.97435,0.61402 1.35538,-0.30432 0.78135,-1.8832 1.30567,-3.54257 1.81084,-4.88718 0.42091,-1.45234 1.03709,-2.39632 1.44868,-3.51864 0.55538,-1.11189 0.70179,-2.46512 1.18048,-3.82193 0.47434,-1.34446 1.22096,-2.68117 1.9834,-4.57863 0.57967,-1.44258 1.7201,-3.00179 2.57507,-4.66862 1.2128,-1.5753 1.48644,-4.41281 2.36953,-6.02456 0.53285,-2.52865 1.58515,-2.71581 2.31525,-3.81877 0.89457,-1.3374 1.51312,-3.21943 2.08803,-3.96003 0.58479,-0.75333 1.07063,-0.4097 1.07063,-0.4097 l 4.10041,1.03254 4.68787,1.50095 4.25246,1.27702 4.9039,1.58339 3.77362,0.44455 4.86112,1.91689 5.39277,1.80536 3.02764,1.04385 5.0545,2.3997 c -0.0472,-0.0155 0.27501,0.45018 0.046,0.95307 0.23898,0.70496 -0.58354,1.16807 -0.97033,2.10989 -0.4335,0.88378 -0.19999,2.40767 -0.72662,3.74488 0.14245,1.59925 -0.53274,2.88626 -1.1611,4.49108 -0.0805,1.74391 -1.36072,3.36338 -2.10196,5.2414 -0.74514,1.7869 -0.63224,3.84438 -1.42354,5.84975 0.0508,2.1166 -1.52184,4.31147 -2.3935,6.46614 -0.678,2.15625 -1.70971,4.07548 -2.55432,6.12577 -0.88574,2.02715 -1.84273,3.59316 -2.66841,5.59474 -1.01639,1.59233 -2.06808,3.20048 -2.85712,5.20229 -1.17893,1.09316 -1.65674,4.04261 -2.30379,6.01087 -0.65388,1.57719 -1.34546,2.90228 -1.74829,4.39319 -0.71121,1.06771 -1.02811,2.33408 -1.19875,3.57785 -0.15576,1.13521 0.0151,2.06141 -0.0834,2.6397 -0.30841,1.81039 -0.60265,3.6404 -0.75563,5.60023 -0.22593,1.90633 0.50176,4.24733 0.47693,6.29557 0.71481,2.17019 -0.0646,3.78061 -0.0232,5.69626 -0.011,1.91688 0.007,3.8346 0.10341,5.74965 -0.0154,1.75486 0.22246,2.6564 0.35756,4.40027 0.15858,0.88575 1.54102,4.07095 1.70571,5.83377 1.33947,1.44261 0.16011,2.682 0.0753,3.7249 -0.03,1.03618 -0.30691,1.73611 -0.4362,2.27319 -0.11904,0.49447 -0.53517,0.11313 -0.53517,0.11313 0,0 -0.5528,-0.0707 -1.55895,-0.28113 -0.9725,-0.17271 -2.58747,-1.14356 -4.25429,-1.55307 -1.72462,-1.00478 -3.44963,-0.9065 -5.27354,-1.36909 -1.99613,-0.59171 -3.7629,-0.93948 -5.57122,-1.54909 -1.83405,-0.61828 -2.69971,-1.23583 -4.09221,-2.10878 -1.03493,-0.64878 -1.73656,-1.33855 -2.97359,-2.5499 -0.86398,-1.00069 -3.01721,-3.33723 -4.44147,-4.99842 -1.44174,-1.84762 -2.48202,-3.92391 -3.5822,-5.29919 -1.14959,-2.39649 -2.21224,-3.34308 -3.05745,-4.33904 -1.11813,-1.95311 -1.61611,-1.77031 -2.16372,-2.25174 -0.76663,-0.67398 -0.76181,-0.64081 -0.76181,-0.64081 z"
+         fill="#4f0080"
+         stroke="#29000a"
+         stroke-width="2.5"
+         stroke-linecap="butt"
+         id="path28"
+         style="filter:url(#filter82)"
+         inkscape:original-d="m 304.53864,209.23979 -30.95986,14.82084 c 0,0 8.90003,-45.63538 25.03911,-59.38334 6.23137,-5.30815 7.52579,-4.83012 8.57317,-7.35446 3.12539,-7.53278 3.10386,-9.61797 6.13644,-17.16504 2.89831,-7.2129 10.53113,-18.77235 10.53113,-18.77235 l 39.35076,12.73723 c 0,0 -19.81399,54.12989 -21.37437,63.28935 -2.77573,16.29353 1.24794,39.74198 1.24794,39.74198 0,0 -15.25912,-3.48116 -22.0651,-7.74774 -6.20959,-3.89271 -16.47923,-20.16647 -16.47923,-20.16647 z" />
+      <g
+         fill="#9b009c"
+         stroke="none"
+         stroke-width="2.5"
+         stroke-linecap="butt"
+         id="g30"
+         style="filter:url(#filter79)">
+        <path
+           d="m 333.10027,139.49979 1.22276,-3.29545 0.60776,-3.82178 0.62703,-3.51143 0.80165,-3.43988 4.87504,1.64171 3.80137,1.10712 4.59739,1.55244 -3.11198,2.06945 -3.81745,1.53336 -3.25044,2.01277 -3.59146,1.60179 z"
+           id="path29"
+           inkscape:original-d="m 332.80849,139.3604 3.36171,-14.04485 13.38818,4.38849 z" />
+        <path
+           d="m 337.44572,132.69387 c 0,0 -0.1524,0.34985 -0.44597,1.00794 -0.65532,-0.23396 -0.29772,2.34073 -0.92928,3.86363 0.0831,1.50275 -0.05,2.86658 -0.67836,4.29934 0.33722,1.8936 -1.68598,2.64849 -2.53855,4.29283 -1.08519,1.17129 -1.45725,3.65738 -2.3278,5.38758 -0.49428,1.82374 -1.03065,3.31563 -1.81526,4.72378 -0.80896,1.45183 -1.97774,2.70926 -2.4831,3.84208 -0.53278,1.1943 -1.16609,2.63487 -2.17072,4.03926 -0.82111,1.51579 -1.37354,3.14832 -2.64915,4.6038 -0.50699,1.7956 -2.96949,2.83364 -4.42935,4.20188 -1.48273,1.06452 -2.57367,2.53127 -3.71795,3.53822 -1.0402,1.07875 -2.20286,0.74037 -2.90751,1.29444 -0.69504,0.54653 -1.24073,1.64932 -1.24073,1.64932 l -4.22136,-0.0704 -4.201,-0.0154 -4.55248,-0.43093 -3.94275,0.25034 -4.01217,0.3821 -4.53219,-0.0232 1.80328,-4.07203 1.32035,-5.13475 1.04081,-3.46106 1.61007,-3.92019 1.22331,-5.26798 4.41038,-1.47105 4.45855,-1.9367 4.79825,-0.93098 4.4121,-1.63058 4.38972,-0.82148 3.35364,-2.80335 3.7174,-2.1987 3.69264,-2.3972 3.69238,-2.12878 4.55645,-2.38586 2.78936,-2.22928 2.87035,-3.02872 z"
+           id="path30"
+           inkscape:original-d="m 337.76473,133.68993 c 0,0 -8.08694,18.12801 -11.73963,26.31598 -3.19667,7.16578 -16.70274,19.69133 -16.70274,19.69133 l -25.45446,0.17827 7.04932,-21.01719 22.46217,-7.61324 24.38535,-17.55516 z" />
+      </g>
+      <path
+         d="m 349.75565,127.19515 3.77534,2.4283 3.30022,2.34051 -3.90025,1.28959 -4.28373,1.15593 -4.07836,1.25853 -4.5954,0.75627 2.89893,-4.07441 3.26372,-2.57458 z"
+         fill="#6900cc"
+         stroke="#29000a"
+         stroke-width="2.5"
+         stroke-linecap="butt"
+         id="path31"
+         style="filter:url(#filter76)"
+         inkscape:original-d="m 349.72569,127.16936 7.0317,4.74614 -17.46238,4.2414 z" />
+      <path
+         d="m 333.05632,133.82105 -1.44745,-4.13165 -0.31791,-2.65541 -1.03843,-3.61985 4.06237,0.0577 3.96234,-0.57522 -1.70945,3.69342 -1.91945,3.34411 z"
+         fill="#6900cc"
+         stroke="#29000a"
+         stroke-width="2.5"
+         stroke-linecap="butt"
+         id="path32"
+         style="filter:url(#filter73)"
+         inkscape:original-d="m 333.14889,134.07913 -3.45687,-10.92095 8.68107,0.36718 z" />
+      <g
+         stroke="#29000a"
+         stroke-width="2.5"
+         stroke-linecap="butt"
+         id="g34"
+         style="filter:url(#filter70)">
+        <path
+           d="m 419.03413,128.43846 c -0.0633,-1.58412 -0.55389,-3.43542 -0.69628,-5.21884 -0.18867,-1.8225 -0.32541,-3.62544 -0.43358,-5.38895 -0.14217,-1.81821 -0.14978,-3.47447 -0.11588,-5.04561 0.0567,-1.57889 0.34621,-2.89724 0.63221,-4.09034 0.4639,-1.04535 0.76422,-2.14848 1.36257,-2.77554 0.60073,-0.62955 1.2746,-0.97129 2.39361,-0.76846 1.07074,0.19408 2.34577,1.2602 3.41061,2.56408 1.17448,1.31534 2.89981,3.20398 3.57647,4.43181 0.68928,1.25073 0.55634,1.86826 0.55634,1.86826 0,0 1.0851,-0.1443 1.68851,-0.98641 1.27305,-0.4694 1.16942,-2.20633 1.73241,-3.58124 0.54999,-1.34314 1.03511,-2.80787 1.39137,-4.04987 0.60261,-2.10081 1.49336,-3.9105 2.33636,-5.520285 0.97961,-1.520973 1.59861,-3.701001 2.55321,-4.704844 0.8207,-1.79348 2.20191,-1.41344 3.25604,-1.487285 1.03729,-0.07266 1.51488,-0.560309 2.47714,0.04225 0.35134,0.22001 1.52818,1.470672 1.72721,2.991606 1.10797,1.648674 0.0628,2.995641 0.0208,4.858735 -0.21234,1.6105 -0.38909,3.50718 -0.46227,5.03353 -0.067,1.39717 0.32138,3.00096 0.32138,3.00096 0,0 1.85215,-0.004 3.04183,-0.1254 2.01494,0.0451 1.99748,-0.90906 3.13513,-0.89513 1.54927,-0.69722 3.04122,-0.34935 4.12061,0.63391 0.89978,0.81965 1.51592,2.61714 1.21678,4.20781 -0.12539,0.66674 -0.87159,2.56293 -1.73014,4.16773 -0.85856,1.6048 -1.39046,3.03844 -1.39046,3.03844 0,0 1.1289,0.22346 2.0029,0.46518 1.32416,0.46224 1.57003,-0.0978 2.41446,0.73299 0.9684,0.95279 2.01181,3.1977 2.48012,5.69608 0.0594,0.31682 -0.0333,0.95073 -0.42699,1.66613 -0.30261,0.8003 -1.03802,1.5288 -1.82759,2.50714 -0.8328,0.92533 -0.81132,2.18568 -1.93512,3.32858 -0.22445,1.3075 -2.80259,2.43189 -4.53233,3.63521 -1.5312,1.0652 -3.19312,2.06529 -4.67309,3.06236 -0.75974,0.51184 -1.50441,1.49594 -2.7659,2.31178 -0.96992,1.00681 -2.63628,1.83657 -4.29113,2.30651 -1.56946,0.4457 -3.50012,0.30061 -5.01559,-0.076 -1.38079,-0.34318 -2.19325,-0.69663 -3.58552,-1.41534 -0.9426,-0.59115 -2.04928,-1.62349 -3.52798,-2.75749 -0.44202,-0.9614 -2.85344,-2.35861 -4.23913,-3.7017 -1.03828,-1.06697 -1.89945,-2.02536 -2.85111,-3.19626 -0.61904,-0.92845 -2.02101,-2.70404 -2.69367,-3.91074 -0.63797,-1.14445 -0.92973,-2.00089 -0.96631,-2.91577 z"
+           fill="#ae00db"
+           id="path33"
+           inkscape:original-d="m 418.72163,128.37753 c -0.37994,-9.50473 -3.17324,-24.38582 3.50196,-23.17588 3.21221,0.58223 7.14088,8.75024 7.14088,8.75024 0,0 4.15838,-4.67874 5.2398,-8.4488 2.41043,-8.40325 7.07072,-13.47856 10.93627,-11.05798 1.40534,0.88004 1.03508,15.06535 1.03508,15.06535 0,0 13.07728,-2.26362 11.87324,4.13881 -0.25077,1.33347 -3.73176,6.86988 -3.73176,6.86988 0,0 6.00972,-0.002 7.32475,7.01343 0.29695,1.58414 -5.44967,8.93064 -13.34027,14.24662 -2.27921,1.53552 -7.39065,5.75095 -12.06073,4.59027 -8.28476,-2.05905 -17.67664,-11.92285 -17.91925,-17.99191 z" />
+        <path
+           d="m 402.48087,167.38038 c -2.88963,0.55441 -5.59535,1.14855 -8.16284,1.25448 -2.61273,2.8e-4 -5.19912,-0.81491 -7.4188,-1.05119 -2.36316,-1.05171 -3.26503,-0.47059 -5.05758,-0.88688 -1.41755,-0.41626 -4.00959,-1.00472 -5.80484,-1.68683 -1.51149,-0.50572 -3.39273,-1.93842 -4.72946,-2.62569 -1.37327,-1.20912 -2.16791,-1.30717 -3.04425,-1.81747 -1.02252,-0.74687 -1.73044,-1.05907 -2.39593,-1.4778 -0.66663,-0.45149 -1.20043,-0.74636 -1.57926,-0.99592 -0.37424,-0.24654 -0.90894,-1.72483 -0.90894,-1.72483 0,0 -0.45925,-0.54775 -1.25466,-1.48989 -0.70032,-0.90338 -1.99311,-2.49559 -2.95994,-3.90921 -0.9485,-1.3868 -1.66256,-2.62945 -2.07387,-3.9495 -0.40747,-1.30776 -0.76395,-3.37645 -0.8963,-5.33732 -0.25139,-2.08809 -0.16313,-3.89951 -0.13111,-5.3745 0.0332,-1.52843 0.59618,-2.29487 0.59618,-2.29487 0,0 1.33933,0.32536 1.67689,0.39 1.27285,0.29291 -0.12015,-1.04635 0.006,-1.0269 0.29869,-0.98752 1.53724,-0.0826 2.89695,-0.0369 0.93575,-0.2897 1.88332,-0.65577 3.32917,-0.76525 1.08879,-0.79284 3.09504,-0.69551 5.02051,-1.00183 1.75132,-0.70565 3.88999,-0.54291 6.07943,-1.07451 2.33395,-0.43808 4.73123,-1.23291 7.31214,-2.24505 2.59696,-1.01844 5.04626,-2.63288 8.09194,-4.29319 2.17607,-1.18626 4.29792,-2.39316 6.23302,-3.71454 1.99925,-1.2594 4.22766,-2.36407 5.92592,-3.76979 2.15849,-1.057 3.07151,-3.71439 4.51776,-5.14499 1.17964,-2.23361 2.28884,-3.62882 3.44573,-4.93181 0.84162,-2.26388 2.2723,-2.46238 3.24971,-3.66442 1.17204,-1.27862 2.78624,-2.24061 3.68235,-3.458169 1.59588,-0.823509 1.61635,-3.10829 2.28107,-4.188347 0.51341,-1.651541 0.98661,-2.059788 1.40799,-2.802151 0.40356,-1.141512 0.63697,-2.058102 0.95552,-2.623472 0.10793,-1.127609 0.69254,-0.91666 0.92191,-1.121166 0.28677,-0.255687 0.51923,-0.309586 0.51923,-0.309586 l 2.59793,4.0518 2.34888,3.190908 2.69986,4.291127 3.05425,4.384526 2.46237,3.88238 2.63418,4.1142 3.53505,3.97067 3.16868,3.66978 1.87902,3.33712 2.47075,4.43082 2.24842,4.0912 3.3142,4.24895 1.74997,3.61741 2.33368,4.4809 2.36918,4.57199 c -0.0516,-0.0242 -0.59092,-0.96085 -0.89388,-0.85556 -0.67163,-0.87219 0.0191,0.36066 -0.5437,0.60298 0.0944,0.36414 -1.39156,0.81066 -2.42741,1.26689 -0.64245,0.48591 -1.77722,0.34987 -2.76859,0.77744 -1.08951,0.0403 -2.02403,0.95708 -3.21286,1.46146 -1.11487,0.55822 -2.54252,0.95171 -3.90988,1.51266 -1.42456,0.46554 -3.0173,0.79968 -4.53092,1.39755 -1.73771,0.26059 -3.32393,0.83649 -4.97506,1.47139 -1.89982,0.2613 -3.59092,1.01847 -5.38516,1.69716 -1.99752,0.39401 -3.55188,1.49662 -5.47189,2.2099 -1.84591,0.83553 -4.15119,1.26948 -6.24889,1.98341 -2.20383,0.50712 -4.0108,1.47989 -6.16548,2.16081 -2.05245,0.77009 -4.58312,1.26886 -6.9424,1.86428 -2.31941,0.58535 -4.63166,1.18859 -7.03028,1.64879 z"
+           fill="#420057"
+           id="path34"
+           inkscape:original-d="m 402.58066,167.77287 c -26.00664,4.98971 -38.96102,-10.14257 -38.96102,-10.14257 0,0 -5.29824,-6.62192 -6.54409,-10.62036 -1.22243,-3.92327 -0.87846,-13.22616 -0.87846,-13.22616 0,0 11.09439,3.527 35.07399,-9.54518 C 415.20792,111.18974 424.105,88.21699 424.105,88.21699 l 38.25086,60.00942 c 0,0 -25.97749,13.0619 -59.7752,19.54645 z" />
+      </g>
+      <path
+         d="m 319.43415,104.13233 2.41789,-0.38807 -2.82324,2.95094 -1.26823,-1.49845 -1.69715,-1.63844 2.676,-0.81458 1.80966,-1.51975"
+         fill="none"
+         stroke="#29000a"
+         stroke-width="1.5"
+         stroke-linecap="round"
+         id="path35"
+         style="filter:url(#filter67)"
+         inkscape:original-d="m 319.43415,104.13233 2.43868,-0.14214 -2.83374,3.21041 -3.14588,-3.79702 4.90267,-1.86472" />
+      <path
+         d="m 329.75678,103.90576 0.76162,-2.80704 1.47785,4.29509 -2.31718,0.47636 -1.86385,1.0301 -0.10153,-3.20015 0.39385,-2.60983"
+         fill="none"
+         stroke="#29000a"
+         stroke-width="1.5"
+         stroke-linecap="round"
+         id="path36"
+         style="filter:url(#filter64)"
+         inkscape:original-d="m 329.75678,103.90576 1.07937,-2.19142 1.39469,4.04866 -4.85475,0.86336 0.79649,-5.1845" />
+      <path
+         d="m 323.62396,100.56695 c 0,0 1.11344,-1.194829 2.06312,-2.346525 0.94969,-1.151696 1.73668,-2.259563 3.77732,-2.005388 1.85463,0.231005 3.24589,0.375525 4.46454,1.034675 1.21865,0.659149 2.04105,1.073388 2.04105,1.073388"
+         fill="none"
+         stroke="#29000a"
+         stroke-width="2"
+         stroke-linecap="round"
+         id="path37"
+         style="filter:url(#filter61)"
+         inkscape:original-d="m 323.62396,100.56695 c 0,0 1.7581,-4.86096 5.83937,-4.35261 3.70926,0.46201 6.73031,2.8683 6.73031,2.8683" />
+      <path
+         d="m 351.57611,117.58236 c 0,0 -0.27819,0.15867 -1.18498,0.0531 -0.90679,-0.10556 -2.32401,-0.44398 -3.50594,-1.1325 -2.36387,-1.37704 2.05172,-2.97537 2.05172,-2.97537 0,0 -1.74052,-0.0212 -1.07049,-0.58029 0.67004,-0.55909 4.26823,-0.85756 4.26823,-0.85756"
+         fill="none"
+         stroke="#29000a"
+         stroke-width="1.5"
+         stroke-linecap="round"
+         id="path38"
+         style="filter:url(#filter58)"
+         inkscape:original-d="m 351.57611,117.58236 c 0,0 -2.44523,0.26628 -4.80909,-1.11075 -2.36387,-1.37704 2.47692,-1.79611 2.47692,-1.79611 0,0 -2.06934,-1.18503 -1.39931,-1.74412 0.67004,-0.55909 4.3758,-0.73948 4.3758,-0.73948" />
+      <path
+         d="m 350.96156,99.7283 c 0,0 -0.81775,-0.672775 -2.05751,-1.113845 -1.23976,-0.44107 -2.77569,-0.572027 -3.61407,0.522063 -0.83837,1.094092 -1.18533,2.528592 -1.07569,3.885982 0.10965,1.3574 1.57678,2.99986 2.52923,3.7482 0.95246,0.74834 2.12751,0.90707 2.87303,0.34398 0.74551,-0.56308 0.83208,-2.26266 1.31911,-3.75636 0.48702,-1.4937 -0.54073,-1.99829 -1.56965,-1.98508 -1.02893,0.0132 -1.70636,0.66619 -1.70636,0.66619"
+         fill="none"
+         stroke="#29000a"
+         stroke-width="1.5"
+         stroke-linecap="round"
+         id="path41"
+         style="filter:url(#filter51)"
+         inkscape:original-d="m 350.96156,99.7283 c 0,0 -4.12066,-2.85837 -5.79741,-0.67019 -1.67675,2.18818 -1.22641,5.85374 0.6785,7.35042 1.90491,1.49668 4.34837,0.35188 5.32242,-2.63552 0.97405,-2.9874 -3.85809,-1.85555 -3.85809,-1.85555" />
+      <path
+         d="m 361.89064,101.24546 c 0,0 -1.41436,0.3928 -2.49449,0.77075 -1.08014,0.37796 -1.97389,0.48776 -1.97668,-1.87987 -0.002,-1.578416 0.97249,-2.039131 1.88364,-2.218999 1.2228,0.07637 1.89803,0.07032 2.94819,0.487136 1.1831,0.469581 2.4941,1.263888 3.43624,1.838623 1.33381,0.81368 0.0535,2.07395 -1.56026,3.31489 -1.61376,1.24095 -3.78565,1.53004 -3.78565,1.53004"
+         fill="none"
+         stroke="#29000a"
+         stroke-width="1.5"
+         stroke-linecap="round"
+         id="path42"
+         style="filter:url(#filter48)"
+         inkscape:original-d="m 361.89064,101.24546 c 0,0 -4.31776,3.87944 -4.32333,-0.85582 -0.006,-4.73526 5.33551,-1.87424 8.00313,-0.2469 2.66762,1.62735 -5.00414,5.87783 -5.00414,5.87783" />
+    </g>
+    <g
+       stroke-width="2.5"
+       stroke-linecap="butt"
+       id="g40"
+       style="filter:url(#filter45)">
+      <path
+         d="M388.80475,63.86803l12.50626,-6.77361l4.55891,13.55362l11.12771,0.58587l-0.70106,11.37578l20.45372,-3.621l-21.54434,15.16729l-0.35279,7.71165l-11.74479,-1.98335l0.89646,15.39832l-18.3404,-18.16835l-13.73108,1.41807l-0.89701,-11.3903l-26.9091,-6.8403l21.94151,-5.66802l-9.07304,-12.12503l16.09033,2.9334l3.03878,-8.46653z"
+         fill="#ffe800"
+         stroke="#a70000"
+         id="path39" />
+      <path
+         d="M390.55227,75.1176l5.95901,-5.21971l1.60812,6.86629l11.16118,-0.85053l-10.48015,8.91089l0.43497,9.81741l-7.54807,-5.21971l-10.04518,1.36054l3.84011,-6.86629l-11.84221,-5.95976l10.70716,0.39651l-4.97516,-10.27143z"
+         fill="#00c4ff"
+         stroke="#00a610"
+         id="path40" />
+    </g>
+  </g>
+</svg>
+<!--rotationCenter:98.0086690555624:124.81899754885202-->
+
